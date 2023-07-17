@@ -9,7 +9,7 @@
   <this:RetryCurrentTransaction.in_Config>
     <InArgument x:TypeArguments="scg:Dictionary(x:String, x:Object)" />
   </this:RetryCurrentTransaction.in_Config>
-  <sap:VirtualizedContainerService.HintSize>1112,760</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1131.2,1176.8</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <VisualBasic.Settings>Assembly references and imported namespaces for internal implementation</VisualBasic.Settings>
   <TextExpression.NamespacesForImplementation>
@@ -70,13 +70,13 @@
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
     </sco1:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Flowchart sap2010:Annotation.AnnotationText="Manage the retrying mechanism for the framework and it is invoked in SetTransactionStatus.xaml when a system exception occurs. &#xA;The retrying method is based on the configurations defined in Config.xlsx." DisplayName="Retry Current Transaction" sap:VirtualizedContainerService.HintSize="1122,1045" sap2010:WorkflowViewState.IdRef="Flowchart_7">
+  <Flowchart sap2010:Annotation.AnnotationText="Manage the retrying mechanism for the framework and it is invoked in SetTransactionStatus.xaml when a system exception occurs. &#xA;The retrying method is based on the configurations defined in Config.xlsx." DisplayName="Retry Current Transaction" sap:VirtualizedContainerService.HintSize="1141.6,1112" sap2010:WorkflowViewState.IdRef="Flowchart_7">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
         <av:Point x:Key="ShapeLocation">360,2.4</av:Point>
-        <av:Size x:Key="ShapeSize">60,75</av:Size>
+        <av:Size x:Key="ShapeSize">60,75.2</av:Size>
         <av:PointCollection x:Key="ConnectorLocation">390,77.0666666666667 390,136.666666666667</av:PointCollection>
         <x:Double x:Key="Width">1108</x:Double>
         <x:Double x:Key="Height">1031</x:Double>
@@ -86,12 +86,12 @@
     <Flowchart.StartNode>
       <x:Reference>__ReferenceID13</x:Reference>
     </Flowchart.StartNode>
-    <FlowDecision x:Name="__ReferenceID13" Condition="[Convert.ToInt32(in_Config(&quot;MaxRetryNumber&quot;))&gt;0]" DisplayName="Retry transaction?" sap:VirtualizedContainerService.HintSize="100,87" sap2010:WorkflowViewState.IdRef="FlowDecision_12">
+    <FlowDecision x:Name="__ReferenceID13" Condition="[Convert.ToInt32(in_Config(&quot;MaxRetryNumber&quot;))&gt;0]" DisplayName="Retry transaction?" sap:VirtualizedContainerService.HintSize="100,87.2" sap2010:WorkflowViewState.IdRef="FlowDecision_12">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           <av:Point x:Key="ShapeLocation">340,136.666666666667</av:Point>
-          <av:Size x:Key="ShapeSize">100,87</av:Size>
+          <av:Size x:Key="ShapeSize">100,87.2</av:Size>
           <x:String x:Key="TrueLabel">Yes</x:String>
           <x:String x:Key="FalseLabel">No</x:String>
           <av:PointCollection x:Key="TrueConnector">340,180 257.866666666667,180 257.866666666667,256.4</av:PointCollection>
@@ -99,16 +99,16 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <FlowDecision.True>
-        <FlowDecision x:Name="__ReferenceID0" Condition="[io_RetryNumber &gt;= Convert.ToInt32(in_Config(&quot;MaxRetryNumber&quot;))]" DisplayName="Max retries reached?" sap:VirtualizedContainerService.HintSize="114,87" sap2010:WorkflowViewState.IdRef="FlowDecision_11">
+        <FlowDecision x:Name="__ReferenceID0" Condition="[io_RetryNumber &gt;= Convert.ToInt32(in_Config(&quot;MaxRetryNumber&quot;))]" DisplayName="Max retries reached?" sap:VirtualizedContainerService.HintSize="115.2,87.2" sap2010:WorkflowViewState.IdRef="FlowDecision_11">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               <av:Point x:Key="ShapeLocation">201.2,256.4</av:Point>
-              <av:Size x:Key="ShapeSize">114,87</av:Size>
+              <av:Size x:Key="ShapeSize">115.2,87.2</av:Size>
               <x:String x:Key="TrueLabel">Yes</x:String>
               <x:String x:Key="FalseLabel">No</x:String>
               <av:PointCollection x:Key="TrueConnector">201.2,299.9 130,299.9 130,383.666666666667</av:PointCollection>
-              <av:PointCollection x:Key="FalseConnector">314.533333333333,299.733333333333 445.986324786325,299.733333333333 445.986324786325,352.082497358647 570,352.082497358647 570,383.6</av:PointCollection>
+              <av:PointCollection x:Key="FalseConnector">316.4,300 570,300 570,383.6</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
           <FlowDecision.True>
@@ -116,11 +116,11 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">30,383.666666666667</av:Point>
-                  <av:Size x:Key="ShapeSize">200,52</av:Size>
+                  <av:Size x:Key="ShapeSize">200,52.8</av:Size>
                   <av:PointCollection x:Key="ConnectorLocation">130,435.666666666667 130,483.99999999999994</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:LogMessage DisplayName="Log message (Max retries reached)" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="LogMessage_17" Level="Error" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Max number of retries reached. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]">
+              <ui:LogMessage DisplayName="Log message (Max retries reached)" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="LogMessage_17" Level="Error" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Max number of retries reached. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -133,21 +133,21 @@
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">30,483.99999999999994</av:Point>
-                      <av:Size x:Key="ShapeSize">200,52</av:Size>
+                      <av:Size x:Key="ShapeSize">200,52.8</av:Size>
                       <av:PointCollection x:Key="ConnectorLocation">130,536 130,566 217,566 217,636.266666666667</av:PointCollection>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Max retries reached)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; &quot;+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Max number of retries reached. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
+                  <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Max retries reached)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Max number of retries reached. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
                   <FlowStep.Next>
                     <FlowStep x:Name="__ReferenceID2" sap2010:WorkflowViewState.IdRef="FlowStep_28">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <av:Point x:Key="ShapeLocation">0,636.266666666667</av:Point>
-                          <av:Size x:Key="ShapeSize">434,82</av:Size>
+                          <av:Size x:Key="ShapeSize">433.6,81.6</av:Size>
                           <av:PointCollection x:Key="ConnectorLocation">217,718.266666666667 217,769</av:PointCollection>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <Assign DisplayName="Reset retry counter" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_27">
+                      <Assign DisplayName="Reset retry counter" sap:VirtualizedContainerService.HintSize="433.6,81.6" sap2010:WorkflowViewState.IdRef="Assign_27">
                         <Assign.To>
                           <OutArgument x:TypeArguments="x:Int32">[io_RetryNumber]</OutArgument>
                         </Assign.To>
@@ -160,7 +160,7 @@
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <av:Point x:Key="ShapeLocation">0,769</av:Point>
-                              <av:Size x:Key="ShapeSize">434,82</av:Size>
+                              <av:Size x:Key="ShapeSize">433.6,81.6</av:Size>
                               <av:PointCollection x:Key="ConnectorLocation">160,560 160,590 159.2,590 159.2,610</av:PointCollection>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
@@ -185,28 +185,28 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">470,383.6</av:Point>
-                  <av:Size x:Key="ShapeSize">200,52</av:Size>
+                  <av:Size x:Key="ShapeSize">200,52.8</av:Size>
                   <av:PointCollection x:Key="ConnectorLocation">570,435.6 570,475.6</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:LogMessage DisplayName="Log message (Retry)" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="LogMessage_18" Level="Warn" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Retry: &quot;+io_RetryNumber.ToString+&quot;. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" />
+              <ui:LogMessage DisplayName="Log message (Retry)" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="LogMessage_18" Level="Warn" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Retry: &quot;+io_RetryNumber.ToString+&quot;. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" />
               <FlowStep.Next>
                 <FlowStep x:Name="__ReferenceID11">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">470,475.6</av:Point>
-                      <av:Size x:Key="ShapeSize">200,52</av:Size>
+                      <av:Size x:Key="ShapeSize">200,52.8</av:Size>
                       <av:PointCollection x:Key="ConnectorLocation">570,527.6 570,557.6 569.333333333333,557.6 569.333333333333,566.666666666667</av:PointCollection>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Retry)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="AppendLine_2" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; &quot;+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Retry: &quot;+io_RetryNumber.ToString+&quot;. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
+                  <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Retry)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="AppendLine_2" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+&quot; Retry: &quot;+io_RetryNumber.ToString+&quot;. &quot;+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
                   <FlowStep.Next>
-                    <FlowDecision x:Name="__ReferenceID7" Condition="[in_QueueRetry]" DisplayName="Use Orchestrator's retry?" sap:VirtualizedContainerService.HintSize="134,87" sap2010:WorkflowViewState.IdRef="FlowDecision_10">
+                    <FlowDecision x:Name="__ReferenceID7" Condition="[in_QueueRetry]" DisplayName="Use Orchestrator's retry?" sap:VirtualizedContainerService.HintSize="133.6,87.2" sap2010:WorkflowViewState.IdRef="FlowDecision_10">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           <av:Point x:Key="ShapeLocation">502.33333333333303,566.666666666667</av:Point>
-                          <av:Size x:Key="ShapeSize">134,87</av:Size>
+                          <av:Size x:Key="ShapeSize">133.6,87.2</av:Size>
                           <av:PointCollection x:Key="TrueConnector">502.33333333333303,610.166666666667 486,610.166666666667 486,869</av:PointCollection>
                           <av:PointCollection x:Key="FalseConnector">636.333333333333,610.166666666667 786,610.166666666667 786,679</av:PointCollection>
                           <x:String x:Key="FalseLabel">No</x:String>
@@ -218,7 +218,7 @@
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <av:Point x:Key="ShapeLocation">269,869</av:Point>
-                              <av:Size x:Key="ShapeSize">434,82</av:Size>
+                              <av:Size x:Key="ShapeSize">433.6,81.6</av:Size>
                               <av:PointCollection x:Key="ConnectorLocation">160,560 160,590 159.2,590 159.2,610</av:PointCollection>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
@@ -237,7 +237,7 @@
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <av:Point x:Key="ShapeLocation">569,679</av:Point>
-                              <av:Size x:Key="ShapeSize">434,82</av:Size>
+                              <av:Size x:Key="ShapeSize">433.6,81.6</av:Size>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                           <Assign DisplayName="Increment retry counter" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_30">
@@ -263,31 +263,31 @@
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <av:Point x:Key="ShapeLocation">530,153.6</av:Point>
-              <av:Size x:Key="ShapeSize">200,52</av:Size>
+              <av:Size x:Key="ShapeSize">200,52.8</av:Size>
               <av:PointCollection x:Key="ConnectorLocation">730,179.6 760,179.6 760,180 780,180</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:LogMessage DisplayName="Log message (No retry)" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="LogMessage_19" Level="Error" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" />
+          <ui:LogMessage DisplayName="Log message (No retry)" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="LogMessage_19" Level="Error" Message="[in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" />
           <FlowStep.Next>
             <FlowStep x:Name="__ReferenceID10">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">780,154</av:Point>
-                  <av:Size x:Key="ShapeSize">200,52</av:Size>
+                  <av:Size x:Key="ShapeSize">200,52.8</av:Size>
                   <av:PointCollection x:Key="ConnectorLocation">880,206 880,236 881,236 881,256</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:AppendLine File="{x:Null}" DisplayName="Append Line (No retry)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; &quot;+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
+              <ui:AppendLine File="{x:Null}" DisplayName="Append Line (No retry)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+in_Config(&quot;LogMessage_ApplicationException&quot;).ToString+in_SystemException.Message+&quot; at Source: &quot;+in_SystemException.Source]" UseDefaultEncoding="False" />
               <FlowStep.Next>
                 <FlowStep x:Name="__ReferenceID6" sap2010:WorkflowViewState.IdRef="FlowStep_33">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">664,256</av:Point>
-                      <av:Size x:Key="ShapeSize">434,82</av:Size>
+                      <av:Size x:Key="ShapeSize">433.6,81.6</av:Size>
                       <av:PointCollection x:Key="ConnectorLocation">160,560 160,610</av:PointCollection>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <Assign DisplayName="Increment TransactionNumber (No retry)" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_31">
+                  <Assign DisplayName="Increment TransactionNumber (No retry)" sap:VirtualizedContainerService.HintSize="433.6,81.6" sap2010:WorkflowViewState.IdRef="Assign_31">
                     <Assign.To>
                       <OutArgument x:TypeArguments="x:Int32">[io_TransactionNumber]</OutArgument>
                     </Assign.To>
