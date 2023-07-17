@@ -1,0 +1,22 @@
+﻿16/07/2023 12:40:26	BOT Read (Settings And Constants, Assets sheets)
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+16/07/2023 12:40:26	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+16/07/2023 12:40:26	Folder Deleted Created at Path : incoming/
+16/07/2023 12:40:26	Folder Deleted Created at Path : Exceptions_Screenshots
+16/07/2023 12:40:26	Opening applications...
+16/07/2023 12:40:56	Killing applications...
+16/07/2023 12:40:56	Get transaction item Started
+16/07/2023 12:41:10	Folder is Exist in SFTP
+16/07/2023 12:41:10	Get transaction item Completed
+16/07/2023 12:41:16	Process execution started
+16/07/2023 12:44:05	=> Consecutive system exception counter is 0.
+16/07/2023 12:44:05	=> Take screenshot Process Start
+16/07/2023 12:44:05	=> Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_16_07_05.png
+16/07/2023 12:44:05	=> System exception.The UiElement is no longer valid at Source: Click 'A  groupNode_workforce_...'
+16/07/2023 12:44:05	Failed to Close Application
+16/07/2023 12:44:05	Applications closed successfully

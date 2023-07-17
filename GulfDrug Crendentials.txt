@@ -1,0 +1,28 @@
+Windows Credentials
+
+username : gulfdrug
+pass : OC159gd#
+
+
+Anydesk ID : 638 589 989
+Password : Rpa_hr@gd
+
+SAP SFTP Credentials
+
+URL: https://sftp22.sapsf.com
+Username: 21985274T1
+Password: 0IRdL@f@1@aI
+
+Folders: Navigation: My Files -> Incoming
+
+1. sf2or_pw_input
+2. sf2or_pw_inprogress
+3. sf2or_pw_error
+4. sf2or_pw_success
+
+
+Oracle HCM Test Credentials:
+
+URL: https://ednz-test.fa.em2.oraclecloud.com/
+Username: 3123
+Password: welcome123

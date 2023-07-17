@@ -1,0 +1,2 @@
+﻿13/07/2023 11:28:07	=> BOT Read (Settings And Constants, Assets sheets)
+13/07/2023 11:29:26	=> Folder Deleted Created

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        .body {
+            background-color: whitesmoke;
+            width: auto;
+            height: auto;
+            padding: 2px;
+            margin: auto;
+            border: 1px solid #e4e6e1;
+            border-radius: 10px;
+        }
+
+        .header {
+            text-align: center;
+            color: #c91e8b;
+            font: bold 33px Sans-serif;
+        }
+
+        .contentBody {
+            background-color: whitesmoke;
+            margin: 5px;
+            height: auto;
+            text-align: left;
+            font-family: sans-serif;
+            padding: 5px;
+            border: 3px solid #d9534f;
+            border-radius: 10px;
+            font-size: 12px;
+        }
+
+        .footer {
+            font-family: 'Courier New';
+            font-weight: 100;
+        }
+
+        b {
+            font-size: 12px;
+        }
+
+        img {
+            width: 188px;
+            height: 68px;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+
+        <div>
+            <h4 class="header">{companyname}</h4>
+        </div>
+        <hr style="height: 2px; border-width: 0;background-color:gray;" />
+
+        <div class="contentBody">
+
+            <h4>Dear Gulfdrug Team,  </h4>
+            <p style="font-size:small">
+                Your<b>&nbsp;{processname}&nbsp;</b> Request is <b style="color: #d9534f; font-size: 13px">Avert</b> For the Below Reference mail,
+                <br /><br />
+                <b>Exception Reason &nbsp;&nbsp;:&nbsp;</b><b style="color: #d9534f; font-size: 13px">{reason}</b>
+                <br /><br />
+                Please Find the Attachment for your reference
+                <br /><br />
+                Thanks & Regards,
+                <br />
+                {companyname}.
+            </p>
+
+
+            <p style="color:red;">*Please do not reply to this mail as this an auto-generated Mail </p>
+        </div>
+
+        <div class="footer">
+            <hr style="height: 2px; border-width: 0;background-color:gray;" />
+            <h6>For use of {companyname} © Atominos Consulting 2022</h6>
+        </div>
+    </div>
+
+</body>
+</html>

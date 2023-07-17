@@ -1,0 +1,15 @@
+﻿10/07/2023 11:49:48	=> BOT Read (Settings And Constants, Assets sheets)
+10/07/2023 11:49:48	=> Folder Deleted Created
+10/07/2023 11:49:48	=> Folder Deleted Created
+10/07/2023 11:49:48	=> Folder Deleted Created
+10/07/2023 11:49:48	=> Folder Deleted Created
+10/07/2023 11:49:49	=> Folder Created
+10/07/2023 11:49:49	=> Folder Created
+10/07/2023 11:49:49	=> Folder Created
+10/07/2023 11:49:49	=> Folder Created
+10/07/2023 11:49:49	=> Folder Deleted Created
+10/07/2023 11:49:49	=> Folder Deleted Created
+10/07/2023 11:49:49	=> Opening applications...
+10/07/2023 11:50:19	=> Killing applications...
+10/07/2023 11:50:24	=> Get the transaction item
+10/07/2023 11:50:27	=>  Folder is Exist

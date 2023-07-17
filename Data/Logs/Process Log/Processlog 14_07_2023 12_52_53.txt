@@ -1,0 +1,16 @@
+﻿14/07/2023 12:52:53	BOT Read (Settings And Constants, Assets sheets)
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+14/07/2023 12:52:53	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+14/07/2023 12:52:53	Folder Deleted Created at Path : incoming/
+14/07/2023 12:52:53	Folder Deleted Created at Path : Exceptions_Screenshots
+14/07/2023 12:52:53	Opening applications...
+14/07/2023 12:53:24	Killing applications...
+14/07/2023 12:53:24	Get transaction item Started
+14/07/2023 12:53:27	Folder is Exist in SFTP
+14/07/2023 12:53:27	Get transaction item Completed
+14/07/2023 12:53:30	Process execution started
