@@ -1,0 +1,17 @@
+﻿07/08/2023 12:20:40	BOT Read (Settings And Constants, Assets sheets)
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+07/08/2023 12:20:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+07/08/2023 12:20:40	Folder Deleted Created at Path : incoming/
+07/08/2023 12:20:40	Folder Deleted Created at Path : Exceptions_Screenshots
+07/08/2023 12:20:40	Opening applications...
+07/08/2023 12:21:11	Killing applications...
+07/08/2023 12:21:11	Get transaction item Started
+07/08/2023 12:21:14	Folder is Exist in SFTP
+07/08/2023 12:21:14	Get transaction item Completed
+07/08/2023 12:22:33	=> Consecutive system exception counter is 0.
+07/08/2023 12:22:47	Take screenshot Process Start
