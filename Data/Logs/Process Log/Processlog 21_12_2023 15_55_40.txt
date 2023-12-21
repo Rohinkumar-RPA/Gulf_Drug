@@ -1,0 +1,31 @@
+﻿21/12/2023 03:55:40	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 03:55:40	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+21/12/2023 03:55:40	Folder Deleted Created at Path : incoming/
+21/12/2023 03:55:40	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 03:55:40	Opening applications...
+21/12/2023 03:55:40	Killing applications...
+21/12/2023 03:56:11	Killing applications...
+21/12/2023 03:56:11	Get transaction item Started
+21/12/2023 03:56:14	Folder is Exist in SFTP
+21/12/2023 03:56:14	Get transaction item Completed
+21/12/2023 03:56:16	Process execution started
+21/12/2023 03:56:20	Validating the Attachment  folder path
+21/12/2023 03:56:20	Folder is Empty
+21/12/2023 03:56:20	Get transaction item Started
+21/12/2023 03:56:23	Folder is Exist in SFTP
+21/12/2023 03:56:23	Get transaction item Completed
+21/12/2023 03:56:25	Process execution started
+21/12/2023 03:56:28	Validating the Attachment  folder path
+21/12/2023 03:56:28	Folder is Empty
+21/12/2023 03:56:29	Get transaction item Started
+21/12/2023 03:56:32	Folder is Exist in SFTP
+21/12/2023 03:56:32	Get transaction item Completed
+21/12/2023 03:56:34	Process execution started
+21/12/2023 03:56:38	Validating the FTP Input folder

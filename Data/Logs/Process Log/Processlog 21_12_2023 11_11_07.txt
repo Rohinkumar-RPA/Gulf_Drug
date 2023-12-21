@@ -1,0 +1,28 @@
+﻿21/12/2023 11:11:07	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 11:11:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+21/12/2023 11:11:07	Folder Deleted Created at Path : incoming/
+21/12/2023 11:11:07	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 11:11:07	Opening applications...
+21/12/2023 11:11:38	Killing applications...
+21/12/2023 11:11:38	Get transaction item Started
+21/12/2023 11:11:41	Folder is Exist in SFTP
+21/12/2023 11:11:41	Get transaction item Completed
+21/12/2023 11:11:43	Process execution started
+21/12/2023 11:11:50	Validating the FTP Input folder
+21/12/2023 11:19:56	=> SetTransactionStatus Success Process Started
+21/12/2023 11:19:59	=> SetTransactionStatus.xaml failed: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials gu23-20020a056a004e5700b006d9744b7043sm360834pfb.187 - gsmtp at Source: Send SMTP Mail Message Success Process
+21/12/2023 11:19:59	Get transaction item Started
+21/12/2023 11:20:02	Folder is Exist in SFTP
+21/12/2023 11:20:02	Get transaction item Completed
+21/12/2023 11:20:04	Process execution started
+21/12/2023 11:20:07	Validating the FTP Input folder
+21/12/2023 11:20:07	Folder is Empty
+21/12/2023 11:20:07	Get transaction item Started
