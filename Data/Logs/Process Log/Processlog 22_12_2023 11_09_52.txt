@@ -1,0 +1,25 @@
+﻿22/12/2023 11:09:52	BOT Read (Settings And Constants, Assets sheets)
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+22/12/2023 11:09:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+22/12/2023 11:09:52	Folder Deleted Created at Path : incoming/
+22/12/2023 11:09:52	Folder Deleted Created at Path : Exceptions_Screenshots
+22/12/2023 11:09:56	input file Downloaded and saved
+22/12/2023 11:09:57	Delete Attachment from Input folder SFTP
+22/12/2023 11:09:59	Upload Files in Inprogress folder in SFTP
+22/12/2023 11:09:59	Moved input file to input sheet folder
+22/12/2023 11:09:59	File Renaming Process Completed
+22/12/2023 11:10:03	BOT validating the input sheet
+22/12/2023 11:10:33	Login Page Validation Started
+12/22/2023 11:10:34   All Mandatory Columns are Present
+22/12/2023 11:10:44	BOT started entering data in Identification tab of Oracle
+22/12/2023 11:11:21	BOT Data entered in Identification tab of Oracle
+22/12/2023 11:12:22	Invalid data occured
+22/12/2023 11:12:22	BOT  submited the data with Failed status in Oracle
+12/22/2023 11:12:22   All Mandatory Columns are Present
+22/12/2023 11:12:33	BOT started entering data in Identification tab of Oracle
