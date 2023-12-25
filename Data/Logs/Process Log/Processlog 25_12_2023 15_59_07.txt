@@ -1,0 +1,44 @@
+﻿25/12/2023 03:59:07	BOT Read (Settings And Constants, Assets sheets)
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+25/12/2023 03:59:07	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+25/12/2023 03:59:07	Folder Deleted Created at Path : incoming/
+25/12/2023 03:59:07	Folder Deleted Created at Path : Exceptions_Screenshots
+25/12/2023 03:59:12	input file Downloaded and saved
+25/12/2023 03:59:12	Delete Attachment from Input folder SFTP
+25/12/2023 03:59:15	Upload Files in Inprogress folder in SFTP
+25/12/2023 03:59:15	Moved input file to input sheet folder
+25/12/2023 03:59:15	File Renaming Process Completed
+25/12/2023 03:59:19	BOT validating the input sheet
+25/12/2023 03:59:50	Login Page Validation Started
+12/25/2023 15:59:50   All Mandatory Columns are Present
+25/12/2023 04:00:01	BOT started entering data in Identification tab of Oracle
+12/25/2023 16:02:06   Mandatory Columns are Missing
+12/25/2023 16:02:06   All Mandatory Columns are Present
+25/12/2023 04:02:17	BOT started entering data in Identification tab of Oracle
+25/12/2023 04:03:37	BOT Data entered in Identification tab of Oracle
+25/12/2023 04:04:07	Invalid data occured
+25/12/2023 04:04:08	BOT  submited the data with Failed status in Oracle
+12/25/2023 16:04:08   All Mandatory Columns are Present
+25/12/2023 04:04:19	BOT started entering data in Identification tab of Oracle
+25/12/2023 04:05:00	BOT Data entered in Identification tab of Oracle
+25/12/2023 04:05:00	BOT started entering data in Person Information tab of Oracle
+25/12/2023 04:06:02	BOT Data entered in Person Info tab of Oracle
+25/12/2023 04:06:04	BOT Data entered in Person Profile tab of Oracle
+25/12/2023 04:06:11	BOT started entering data in Employee Information tab of Oracle
+25/12/2023 04:09:29	BOT started entering data in Employee Information tab of Oracle
+25/12/2023 04:12:36	BOT Data entered in Person Info tab of Oracle
+25/12/2023 04:12:37	BOT Data entered in Compensation and Other Information tab of Oracle
+25/12/2023 04:12:41	BOT entered in Review Tab
+25/12/2023 04:12:49	BOT  submited the data with Success status in Oracle
+12/25/2023 16:13:23   Line Items Status Validation in input excel started
+12/25/2023 16:13:28   Line Items with Success Status successfully updated in separate excel file
+12/25/2023 16:13:33   Line Items with Failed Status successfully updated in separate excel file
+12/25/2023 16:13:38   Line Items with Missing field Status successfully updated in separate excel file
+12/25/2023 16:13:38   Input file successfully  moved to staging folder
+12/25/2023 16:13:38   Some of the line item contains failed status

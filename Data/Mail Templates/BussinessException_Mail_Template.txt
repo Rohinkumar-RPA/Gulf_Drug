@@ -62,7 +62,7 @@
 
             <h4>Dear Gulfdrug Team,  </h4>
             <p style="font-size:small">
-                Your<b>&nbsp;{processname}&nbsp;</b> has some <b style="color: #323ee6; font-size: 13px">Invalid data </b>,So kindly refer the Error folder in SFTP,
+                Your<b>&nbsp;{processname}&nbsp;</b> has some <b style="color: #323ee6; font-size: 13px">Invalid data or Duplicate Data </b>,So kindly refer the Error folder in SFTP,
                 <br /><br />
                 <b>Exception Reason &nbsp;&nbsp;:&nbsp;</b><b style="color: #323ee6; font-size: 13px">{reason}</b>
                 <br /><br />

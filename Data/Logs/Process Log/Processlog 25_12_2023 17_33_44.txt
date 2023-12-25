@@ -1,0 +1,27 @@
+﻿25/12/2023 05:33:44	BOT Read (Settings And Constants, Assets sheets)
+25/12/2023 05:33:44	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+25/12/2023 05:33:45	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+25/12/2023 05:33:45	Folder Deleted Created at Path : incoming/
+25/12/2023 05:33:45	Folder Deleted Created at Path : Exceptions_Screenshots
+25/12/2023 05:33:45	Opening applications...
+25/12/2023 05:34:16	Killing applications...
+25/12/2023 05:34:16	Get transaction item Started
+25/12/2023 05:34:20	Folder is Exist in SFTP
+25/12/2023 05:34:20	Get transaction item Completed
+25/12/2023 05:34:23	Process execution started
+25/12/2023 05:34:28	Validating the FTP Input folder
+25/12/2023 05:39:47	=> SetTransactionStatus Bussiness Exception Process Started
+25/12/2023 05:39:52	=> SetTransactionStatus Failed Process Mail Sent Successfully
+25/12/2023 05:39:52	Failed to Close Application
+25/12/2023 05:42:52	=> SetTransactionStatus.xaml failed: Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' htmlwindowname='*' title='*' url='https://ednz-test*'/>
+
+The closest matches found are:
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://sftp22.sapsf.com/Web/Account/Login.htm'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://mail.google.com/mail/u/0/?tab=wm#inbox'/> at Source: Attach Browser Sign In: UiPath.UiAutomation.Activities
