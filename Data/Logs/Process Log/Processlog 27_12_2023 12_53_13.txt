@@ -1,0 +1,23 @@
+﻿27/12/2023 12:53:13	BOT Read (Settings And Constants, Assets sheets)
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+27/12/2023 12:53:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+27/12/2023 12:53:13	Folder Deleted Created at Path : incoming/
+27/12/2023 12:53:13	Folder Deleted Created at Path : Exceptions_Screenshots
+27/12/2023 12:53:13	Opening applications...
+27/12/2023 12:53:44	Killing applications...
+27/12/2023 12:53:44	Get transaction item Started
+27/12/2023 12:53:45	Folder is Exist in SFTP
+27/12/2023 12:53:45	Get transaction item Completed
+27/12/2023 12:53:47	Process execution started
+27/12/2023 12:53:49	Validating the FTP Input folder
+27/12/2023 01:04:43	=> SetTransactionStatus Bussiness Exception Process Started
+27/12/2023 01:04:45	=> SetTransactionStatus Failed Process Mail Sent Successfully
+27/12/2023 01:04:46	Failed to Close Application
+27/12/2023 01:05:16	Failed to Close Application
+27/12/2023 01:05:16	=> Business rule exception.Some of the line item contains failed status or Duplicate data
