@@ -1,0 +1,28 @@
+﻿19/01/2024 03:01:56	BOT Read (Settings And Constants, Assets sheets)
+19/01/2024 03:01:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+19/01/2024 03:01:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+19/01/2024 03:01:57	Folder Deleted Created at Path : incoming/
+19/01/2024 03:01:57	Folder Deleted Created at Path : Exceptions_Screenshots
+19/01/2024 03:01:57	Opening applications...
+19/01/2024 03:02:27	Killing applications...
+19/01/2024 03:02:27	Get transaction item Started
+19/01/2024 03:02:31	Folder is Exist in SFTP
+19/01/2024 03:02:31	Get transaction item Completed
+19/01/2024 03:02:33	Process execution started
+19/01/2024 03:02:39	Validating the FTP Input folder
+19/01/2024 03:04:22	=> SetTransactionStatus Bussiness Exception Process Started
+19/01/2024 03:04:44	=> SetTransactionStatus missing failed mail sending process completed
+19/01/2024 03:04:44	Failed to Close Application
+19/01/2024 03:05:23	Failed to Close Application
+19/01/2024 03:05:23	=> Business rule exception.Some of the line item contains failed status or Duplicate data
+19/01/2024 03:05:23	Get transaction item Started
+19/01/2024 03:05:26	Folder is Exist in SFTP
+19/01/2024 03:05:26	Get transaction item Completed
+19/01/2024 03:05:28	Process execution started
+19/01/2024 03:05:31	Validating the FTP Input folder
