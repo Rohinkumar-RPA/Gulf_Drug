@@ -167,11 +167,11 @@
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <av:Point x:Key="ShapeLocation">10,471.6</av:Point>
-              <av:Size x:Key="ShapeSize">200,153</av:Size>
-              <av:PointCollection x:Key="ConnectorLocation">110,624.6 110,756.1</av:PointCollection>
+              <av:Size x:Key="ShapeSize">200,97</av:Size>
+              <av:PointCollection x:Key="ConnectorLocation">110,568.6 110,728.1</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <Sequence sap2010:Annotation.AnnotationText="If the transaction item is processed without any exception, its status is updated as Successful." DisplayName="Success" sap:VirtualizedContainerService.HintSize="1086,2464" sap2010:WorkflowViewState.IdRef="Sequence_11">
+          <Sequence sap2010:Annotation.AnnotationText="If the transaction item is processed without any exception, its status is updated as Successful." DisplayName="Success" sap:VirtualizedContainerService.HintSize="200,97" sap2010:WorkflowViewState.IdRef="Sequence_11">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -179,7 +179,7 @@
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1024,52" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="814,25" sap2010:WorkflowViewState.IdRef="CommentOut_1">
               <ui:CommentOut.Body>
                 <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,163" sap2010:WorkflowViewState.IdRef="Sequence_25">
                   <sap:WorkflowViewStateService.ViewState>
@@ -263,26 +263,26 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:CommentOut>
-            <ui:LogMessage DisplayName="Log message (Set Transaction Success)" sap:VirtualizedContainerService.HintSize="1024,92" sap2010:WorkflowViewState.IdRef="LogMessage_18" Level="Fatal" Message="[&quot;SetTransactionStatus Success Process Started&quot;]" />
-            <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Set Transaction Success)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="1024,133" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; SetTransactionStatus Success Process Started&quot;]" UseDefaultEncoding="False" />
-            <ui:ReadTextFile File="{x:Null}" Content="[Business_Exception_Body]" DisplayName="Read Text File BE" FileName="[in_Config(&quot;Business_Exception_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="1024,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_8" />
-            <Parallel DisplayName="Parallel for Set Transaction Success" sap:VirtualizedContainerService.HintSize="1024,980" sap2010:WorkflowViewState.IdRef="Parallel_4">
-              <If Condition="[Directory.GetFiles(in_Config(&quot;Success_Status_path&quot;).ToString).Count&gt;0]" DisplayName="Success Process in Success" sap:VirtualizedContainerService.HintSize="410,933" sap2010:WorkflowViewState.IdRef="If_17">
+            <ui:LogMessage DisplayName="Log message (Set Transaction Success)" sap:VirtualizedContainerService.HintSize="814,92" sap2010:WorkflowViewState.IdRef="LogMessage_18" Level="Fatal" Message="[&quot;SetTransactionStatus Success Process Started&quot;]" />
+            <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Set Transaction Success)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="814,133" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; SetTransactionStatus Success Process Started&quot;]" UseDefaultEncoding="False" />
+            <ui:ReadTextFile File="{x:Null}" Content="[Business_Exception_Body]" DisplayName="Read Text File BE" FileName="[in_Config(&quot;Business_Exception_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="814,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_8" />
+            <Parallel DisplayName="Parallel for Set Transaction Success" sap:VirtualizedContainerService.HintSize="814,87" sap2010:WorkflowViewState.IdRef="Parallel_4">
+              <If Condition="[Directory.GetFiles(in_Config(&quot;Success_Status_path&quot;).ToString).Count&gt;0]" DisplayName="Success Process in Success" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_17">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                     <x:Boolean x:Key="IsPinned">False</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <If.Then>
-                  <Sequence sap:VirtualizedContainerService.HintSize="376,751" sap2010:WorkflowViewState.IdRef="Sequence_64">
+                  <Sequence sap:VirtualizedContainerService.HintSize="376,724" sap2010:WorkflowViewState.IdRef="Sequence_64">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
                     <ui:ReadTextFile File="{x:Null}" Content="[Success_Mail_body]" DisplayName="Read Text File Success Process" FileName="[in_Config(&quot;Success_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="334,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_6" />
-                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Body="[Success_Mail_body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString)]" Cc="[in_Config(&quot;IT_Team_CC_Address_success&quot;).ToString]" DisplayName="Send SMTP Mail Message Success Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_21" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Success_Mail_Subject&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_success&quot;).ToString]">
+                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Body="[Success_Mail_body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString)]" Cc="[in_Config(&quot;IT_Team_CC_Address_success&quot;).ToString]" DisplayName="Send SMTP Mail Message Success Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_21" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Success_Mail_Subject&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_success&quot;).ToString]">
                       <ui:SendMail.Files>
                         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                           <InArgument x:TypeArguments="x:String">[Directory.GetFiles(in_Config("Success_Status_path").ToString)(0)]</InArgument>
@@ -295,7 +295,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:SendMail>
-                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="CommentOut_30">
+                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,25" sap2010:WorkflowViewState.IdRef="CommentOut_30">
                       <ui:CommentOut.Body>
                         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,257" sap2010:WorkflowViewState.IdRef="Sequence_87">
                           <sap:WorkflowViewStateService.ViewState>
@@ -339,7 +339,7 @@
                   </Sequence>
                 </If.Else>
               </If>
-              <If Condition="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Missing Field Proccess in Success" sap:VirtualizedContainerService.HintSize="200,933" sap2010:WorkflowViewState.IdRef="If_18">
+              <If Condition="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Missing Field Proccess in Success" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_18">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -347,13 +347,13 @@
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <If.Then>
-                  <Sequence sap:VirtualizedContainerService.HintSize="376,631" sap2010:WorkflowViewState.IdRef="Sequence_67">
+                  <Sequence sap:VirtualizedContainerService.HintSize="376,604" sap2010:WorkflowViewState.IdRef="Sequence_67">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,&quot;Some required fields are missing&quot;)]" Cc="[in_Config(&quot;IT_Team_CC_Address_missing&quot;).ToString]" DisplayName="Send SMTP Mail Message Missing Field" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_22" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Missing_fields&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_missing&quot;).ToString]">
+                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,&quot;Some required fields are missing&quot;)]" Cc="[in_Config(&quot;IT_Team_CC_Address_missing&quot;).ToString]" DisplayName="Send SMTP Mail Message Missing Field" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_22" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Missing_fields&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_missing&quot;).ToString]">
                       <ui:SendMail.Files>
                         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4" />
                       </ui:SendMail.Files>
@@ -364,7 +364,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:SendMail>
-                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="CommentOut_31">
+                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,25" sap2010:WorkflowViewState.IdRef="CommentOut_31">
                       <ui:CommentOut.Body>
                         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,163" sap2010:WorkflowViewState.IdRef="Sequence_88">
                           <sap:WorkflowViewStateService.ViewState>
@@ -406,7 +406,7 @@
                   </Sequence>
                 </If.Else>
               </If>
-              <If Condition="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString).Count &gt; 0 or Directory.GetFiles(in_Config(&quot;Failed_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Failed Process in Success" sap:VirtualizedContainerService.HintSize="200,933" sap2010:WorkflowViewState.IdRef="If_19">
+              <If Condition="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString).Count &gt; 0 or Directory.GetFiles(in_Config(&quot;Failed_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Failed Process in Success" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_19">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -414,13 +414,13 @@
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <If.Then>
-                  <Sequence sap:VirtualizedContainerService.HintSize="376,631" sap2010:WorkflowViewState.IdRef="Sequence_70">
+                  <Sequence sap:VirtualizedContainerService.HintSize="376,604" sap2010:WorkflowViewState.IdRef="Sequence_70">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,in_BusinessException.Message)]" Cc="[in_Config(&quot;IT_Team_CC_Address_failed&quot;).ToString]" DisplayName="Send SMTP Mail Message for Failed Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_23" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Invalid_data&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_failed&quot;).ToString]">
+                    <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,in_BusinessException.Message)]" Cc="[in_Config(&quot;IT_Team_CC_Address_failed&quot;).ToString]" DisplayName="Send SMTP Mail Message for Failed Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_23" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Invalid_data&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_failed&quot;).ToString]">
                       <ui:SendMail.Files>
                         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                           <InArgument x:TypeArguments="x:String">[Directory.GetFiles(in_Config("Failed_Status_path").ToString)(0)]</InArgument>
@@ -433,7 +433,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:SendMail>
-                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="CommentOut_32">
+                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,25" sap2010:WorkflowViewState.IdRef="CommentOut_32">
                       <ui:CommentOut.Body>
                         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,163" sap2010:WorkflowViewState.IdRef="Sequence_89">
                           <sap:WorkflowViewStateService.ViewState>
@@ -478,7 +478,7 @@
                 </If.Else>
               </If>
             </Parallel>
-            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1024,52" sap2010:WorkflowViewState.IdRef="CommentOut_5">
+            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="814,25" sap2010:WorkflowViewState.IdRef="CommentOut_5">
               <ui:CommentOut.Body>
                 <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,257" sap2010:WorkflowViewState.IdRef="Sequence_34">
                   <sap:WorkflowViewStateService.ViewState>
@@ -508,7 +508,7 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:CommentOut>
-            <Sequence sap2010:Annotation.AnnotationText="Includes custom log fields to the log message.&#xA;They are removed after logging to prevent duplicated status messages about a single transaction." DisplayName="Log Success with additional logging fields" sap:VirtualizedContainerService.HintSize="1024,693" sap2010:WorkflowViewState.IdRef="Sequence_10">
+            <Sequence sap2010:Annotation.AnnotationText="Includes custom log fields to the log message.&#xA;They are removed after logging to prevent duplicated status messages about a single transaction." DisplayName="Log Success with additional logging fields" sap:VirtualizedContainerService.HintSize="814,693" sap2010:WorkflowViewState.IdRef="Sequence_10">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -545,10 +545,10 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">110,715.6</av:Point>
-                  <av:Size x:Key="ShapeSize">200,81</av:Size>
+                  <av:Size x:Key="ShapeSize">200,25</av:Size>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Sequence DisplayName="Increment transaction index and reset retries" sap:VirtualizedContainerService.HintSize="200,81" sap2010:WorkflowViewState.IdRef="Sequence_12">
+              <Sequence DisplayName="Increment transaction index and reset retries" sap:VirtualizedContainerService.HintSize="200,25" sap2010:WorkflowViewState.IdRef="Sequence_12">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -614,11 +614,11 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">230,469.333333333333</av:Point>
-                  <av:Size x:Key="ShapeSize">200,183</av:Size>
-                  <av:PointCollection x:Key="ConnectorLocation">330,652.333333333333 330,756.1 310,756.1</av:PointCollection>
+                  <av:Size x:Key="ShapeSize">200,127</av:Size>
+                  <av:PointCollection x:Key="ConnectorLocation">330,596.333333333333 330,728.1 310,728.1</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Sequence sap2010:Annotation.AnnotationText="If a BussinessRuleException is thrown during the process, the transaction item's status is updated as Failed (Exception Type: Business).&#xA;" DisplayName="Business Exception" sap:VirtualizedContainerService.HintSize="200,183" sap2010:WorkflowViewState.IdRef="Sequence_14">
+              <Sequence sap2010:Annotation.AnnotationText="If a BussinessRuleException is thrown during the process, the transaction item's status is updated as Failed (Exception Type: Business).&#xA;" DisplayName="Business Exception" sap:VirtualizedContainerService.HintSize="876,1005" sap2010:WorkflowViewState.IdRef="Sequence_14">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -626,7 +626,7 @@
                     <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1444,52" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+                <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="814,25" sap2010:WorkflowViewState.IdRef="CommentOut_2">
                   <ui:CommentOut.Body>
                     <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,163" sap2010:WorkflowViewState.IdRef="Sequence_26">
                       <sap:WorkflowViewStateService.ViewState>
@@ -701,11 +701,11 @@
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
                 </ui:CommentOut>
-                <ui:LogMessage DisplayName="Log message (Set Transaction Bussiness Exception)" sap:VirtualizedContainerService.HintSize="1444,92" sap2010:WorkflowViewState.IdRef="LogMessage_19" Level="Fatal" Message="[&quot;SetTransactionStatus Bussiness Exception Process Started&quot;]" />
-                <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Set Transaction Bussiness Exception)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="1444,133" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; SetTransactionStatus Bussiness Exception Process Started&quot;]" UseDefaultEncoding="False" />
-                <ui:ReadTextFile File="{x:Null}" Content="[Business_Exception_Body]" DisplayName="Read Text File BE" FileName="[in_Config(&quot;Business_Exception_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="1444,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_1" />
-                <Parallel DisplayName="Parallel for Set Transaction Bussiness Exception" sap:VirtualizedContainerService.HintSize="1444,99" sap2010:WorkflowViewState.IdRef="Parallel_5">
-                  <If Condition="[Directory.GetFiles(in_Config(&quot;Success_Status_path&quot;).ToString).Count&gt;0]" DisplayName="Success Process in BE" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="If_20">
+                <ui:LogMessage DisplayName="Log message (Set Transaction Bussiness Exception)" sap:VirtualizedContainerService.HintSize="814,92" sap2010:WorkflowViewState.IdRef="LogMessage_19" Level="Fatal" Message="[&quot;SetTransactionStatus Bussiness Exception Process Started&quot;]" />
+                <ui:AppendLine File="{x:Null}" DisplayName="Append Line (Set Transaction Bussiness Exception)" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="814,133" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;=&gt; SetTransactionStatus Bussiness Exception Process Started&quot;]" UseDefaultEncoding="False" />
+                <ui:ReadTextFile File="{x:Null}" Content="[Business_Exception_Body]" DisplayName="Read Text File BE" FileName="[in_Config(&quot;Business_Exception_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="814,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_1" />
+                <Parallel DisplayName="Parallel for Set Transaction Bussiness Exception" sap:VirtualizedContainerService.HintSize="814,87" sap2010:WorkflowViewState.IdRef="Parallel_5">
+                  <If Condition="[Directory.GetFiles(in_Config(&quot;Success_Status_path&quot;).ToString).Count&gt;0]" DisplayName="Success Process in BE" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_20">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -720,7 +720,7 @@
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
                         <ui:ReadTextFile File="{x:Null}" Content="[Success_Mail_body]" DisplayName="Read Text File Success Process" FileName="[in_Config(&quot;Success_Mail_Templates&quot;).ToString]" sap:VirtualizedContainerService.HintSize="334,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_7" />
-                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Body="[Success_Mail_body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString)]" Cc="[in_Config(&quot;IT_Team_CC_Address_success&quot;).ToString]" DisplayName="Send SMTP Mail Message Success Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_25" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Success_Mail_Subject&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_success&quot;).ToString]">
+                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Body="[Success_Mail_body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString)]" Cc="[in_Config(&quot;IT_Team_CC_Address_success&quot;).ToString]" DisplayName="Send SMTP Mail Message Success Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_25" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Success_Mail_Subject&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_success&quot;).ToString]">
                           <ui:SendMail.Files>
                             <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                               <InArgument x:TypeArguments="x:String">[Directory.GetFiles(in_Config("Success_Status_path").ToString)(0)]</InArgument>
@@ -777,7 +777,7 @@
                       </Sequence>
                     </If.Else>
                   </If>
-                  <If Condition="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Missing Field Proccess in BE" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="If_21">
+                  <If Condition="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Missing Field Proccess in BE" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_21">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -791,7 +791,7 @@
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,&quot;Some required fields are missing&quot;)]" Cc="[in_Config(&quot;IT_Team_CC_Address_missing&quot;).ToString]" DisplayName="Send SMTP Mail Message Missing Field" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_26" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Missing_fields&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_missing&quot;).ToString]">
+                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Missing_Status_path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,&quot;Some required fields are missing&quot;)]" Cc="[in_Config(&quot;IT_Team_CC_Address_missing&quot;).ToString]" DisplayName="Send SMTP Mail Message Missing Field" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_26" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Missing_fields&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_missing&quot;).ToString]">
                           <ui:SendMail.Files>
                             <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4" />
                           </ui:SendMail.Files>
@@ -844,7 +844,7 @@
                       </Sequence>
                     </If.Else>
                   </If>
-                  <If Condition="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString).Count &gt; 0 or Directory.GetFiles(in_Config(&quot;Failed_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Failed Process in BE" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="If_22">
+                  <If Condition="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString).Count &gt; 0 or Directory.GetFiles(in_Config(&quot;Failed_Status_path&quot;).ToString).Count &gt; 0]" DisplayName="Failed Process in BE" sap:VirtualizedContainerService.HintSize="200,40" sap2010:WorkflowViewState.IdRef="If_22">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -858,7 +858,7 @@
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,in_BusinessException.Message)]" Cc="[in_Config(&quot;IT_Team_CC_Address_failed&quot;).ToString]" DisplayName="Send SMTP Mail Message for Failed Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_24" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="Auto" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Invalid_data&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_failed&quot;).ToString]">
+                        <ui:SendMail Bcc="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" AttachmentsCollection="[Directory.GetFiles(in_Config(&quot;Exception_SS_Path&quot;).ToString)]" Body="[Business_Exception_Body.Replace(&quot;{companyname}&quot;,in_Config(&quot;Company_Name&quot;).ToString).Replace(&quot;{processname}&quot;,in_Config(&quot;Process_Name&quot;).ToString).Replace(&quot;{reason}&quot;,in_BusinessException.Message)]" Cc="[in_Config(&quot;IT_Team_CC_Address_failed&quot;).ToString]" DisplayName="Send SMTP Mail Message for Failed Process" Email="[in_Config(&quot;Mail_ID&quot;).ToString]" EnableSSL="True" sap:VirtualizedContainerService.HintSize="334,146" sap2010:WorkflowViewState.IdRef="SendMail_24" IgnoreCRL="False" IsBodyHtml="True" Password="[in_Config(&quot;Mail_Password&quot;).ToString]" Port="[Cint(in_Config(&quot;Mail_Port&quot;).ToString)]" SecureConnection="None" Server="[in_Config(&quot;Mail_Server&quot;).ToString]" Subject="[in_Config(&quot;Business_Exception_Mail_Subject_Invalid_data&quot;).ToString]" To="[in_Config(&quot;IT_Team_Mail_Address_failed&quot;).ToString]">
                           <ui:SendMail.Files>
                             <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                               <InArgument x:TypeArguments="x:String">[Directory.GetFiles(in_Config("Failed_Status_path").ToString)(0)]</InArgument>
@@ -916,12 +916,12 @@
                     </If.Else>
                   </If>
                 </Parallel>
-                <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke CloseAllApplications workflow" sap:VirtualizedContainerService.HintSize="1444,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_9" UnSafe="False" WorkflowFileName="Framework\CloseAllApplications.xaml">
+                <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke CloseAllApplications workflow" sap:VirtualizedContainerService.HintSize="814,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_9" UnSafe="False" WorkflowFileName="Framework\CloseAllApplications.xaml">
                   <ui:InvokeWorkflowFile.Arguments>
                     <InArgument x:TypeArguments="scg:Dictionary(x:String, x:Object)" x:Key="in_Config">[in_Config]</InArgument>
                   </ui:InvokeWorkflowFile.Arguments>
                 </ui:InvokeWorkflowFile>
-                <Sequence sap2010:Annotation.AnnotationText="Includes custom log fields to the log message.&#xA;They are removed after logging to prevent duplicated status messages about a single transaction." DisplayName="Log business exception with additional logging fields" sap:VirtualizedContainerService.HintSize="1444,143" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                <Sequence sap2010:Annotation.AnnotationText="Includes custom log fields to the log message.&#xA;They are removed after logging to prevent duplicated status messages about a single transaction." DisplayName="Log business exception with additional logging fields" sap:VirtualizedContainerService.HintSize="814,82" sap2010:WorkflowViewState.IdRef="Sequence_13">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -963,10 +963,10 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">450,467.666666666667</av:Point>
-                  <av:Size x:Key="ShapeSize">200,168</av:Size>
+                  <av:Size x:Key="ShapeSize">200,112</av:Size>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Sequence sap2010:Annotation.AnnotationText="If a system exception occurs during the process, the transaction item's status is updated as Failed (Exception Type: Application)." DisplayName="System Exception" sap:VirtualizedContainerService.HintSize="200,168" sap2010:WorkflowViewState.IdRef="Sequence_17">
+              <Sequence sap2010:Annotation.AnnotationText="If a system exception occurs during the process, the transaction item's status is updated as Failed (Exception Type: Application)." DisplayName="System Exception" sap:VirtualizedContainerService.HintSize="200,112" sap2010:WorkflowViewState.IdRef="Sequence_17">
                 <Sequence.Variables>
                   <Variable x:TypeArguments="x:Boolean" Name="QueueRetry" />
                   <Variable x:TypeArguments="x:String" Name="ScreenshotPath" />
