@@ -1,0 +1,27 @@
+﻿12/02/2024 02:33:30	BOT Read (Settings And Constants, Assets sheets)
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+12/02/2024 02:33:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+12/02/2024 02:33:31	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+12/02/2024 02:33:31	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+12/02/2024 02:33:31	Folder Deleted Created at Path : incoming/
+12/02/2024 02:33:31	Folder Deleted Created at Path : Exceptions_Screenshots
+12/02/2024 02:33:31	Opening applications...
+12/02/2024 02:34:01	Killing applications...
+12/02/2024 02:34:01	Get transaction item Started
+12/02/2024 02:34:05	Folder is Exist in SFTP
+12/02/2024 02:34:05	Get transaction item Completed
+12/02/2024 02:34:08	Process execution started
+12/02/2024 02:34:14	Validating the FTP Input folder
+12/02/2024 02:38:25	=> SetTransactionStatus Bussiness Exception Process Started
+12/02/2024 02:38:27	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. k30-20020a63ba1e000000b005dc4806ad7dsm5546807pgf.40 - gsmtp at Source: Send SMTP Mail Message Missing Field
+12/02/2024 02:38:27	Get transaction item Started
+12/02/2024 02:38:31	Folder is Exist in SFTP
+12/02/2024 02:38:31	Get transaction item Completed
+12/02/2024 02:38:33	Process execution started
+12/02/2024 02:38:38	Validating the FTP Input folder

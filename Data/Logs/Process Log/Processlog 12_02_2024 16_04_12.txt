@@ -1,0 +1,19 @@
+﻿12/02/2024 04:04:12	BOT Read (Settings And Constants, Assets sheets)
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+12/02/2024 04:04:12	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+12/02/2024 04:04:12	Folder Deleted Created at Path : incoming/
+12/02/2024 04:04:13	Folder Deleted Created at Path : Exceptions_Screenshots
+12/02/2024 04:04:18	input file Downloaded and saved
+12/02/2024 04:04:19	Delete Attachment from Input folder SFTP
+12/02/2024 04:04:21	Upload Files in Inprogress folder in SFTP
+12/02/2024 04:04:21	Moved input file to input sheet folder
+12/02/2024 04:04:21	File Renaming Process Completed
+12/02/2024 04:04:26	BOT validating the input sheet
+12/02/2024 04:04:57	Login Page Validation Started
+02/12/2024 16:07:31   All Mandatory Columns are Present

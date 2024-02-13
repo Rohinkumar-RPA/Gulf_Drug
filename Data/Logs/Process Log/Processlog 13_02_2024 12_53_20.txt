@@ -1,0 +1,25 @@
+﻿13/02/2024 12:53:20	BOT Read (Settings And Constants, Assets sheets)
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+13/02/2024 12:53:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+13/02/2024 12:53:20	Folder Deleted Created at Path : incoming/
+13/02/2024 12:53:20	Folder Deleted Created at Path : Exceptions_Screenshots
+13/02/2024 12:53:25	input file Downloaded and saved
+13/02/2024 12:53:25	Delete Attachment from Input folder SFTP
+13/02/2024 12:53:28	Upload Files in Inprogress folder in SFTP
+13/02/2024 12:53:28	Moved input file to input sheet folder
+13/02/2024 12:53:28	File Renaming Process Completed
+13/02/2024 12:53:32	BOT validating the input sheet
+13/02/2024 12:54:03	Login Page Validation Started
+02/13/2024 12:57:31   Line Items Status Validation in input excel started
+13/02/2024 12:57:42	=> Success status doesn't exist
+13/02/2024 12:58:00	=> Failed status doesn't exist
+13/02/2024 12:59:03	=> Missing Fields doesn't exist
+02/13/2024 12:59:08   Line Items with Missing field Status successfully updated in separate excel file
+02/13/2024 12:59:08   Input file successfully  moved to staging folder
