@@ -1,0 +1,27 @@
+﻿20/02/2024 02:47:38	BOT Read (Settings And Constants, Assets sheets)
+20/02/2024 02:47:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+20/02/2024 02:47:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+20/02/2024 02:47:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+20/02/2024 02:47:39	Folder Deleted Created at Path : outgoing/
+20/02/2024 02:47:39	Folder Deleted Created at Path : Exceptions_Screenshots
+20/02/2024 02:47:39	Opening applications...
+20/02/2024 02:47:40	Killing applications...
+20/02/2024 02:49:10	Failed to Close Application
+20/02/2024 02:49:40	Killing applications...
+20/02/2024 02:49:40	Get transaction item Started
+20/02/2024 02:49:44	Folder is Exist in SFTP
+20/02/2024 02:49:44	Get transaction item Completed
+20/02/2024 02:49:47	Process execution started
+20/02/2024 02:58:21	Validating the Attachment  folder path
+20/02/2024 02:58:21	Folder is Empty
+20/02/2024 02:58:21	Get transaction item Started
+20/02/2024 02:58:25	Folder is Exist in SFTP
+20/02/2024 02:58:25	Get transaction item Completed
+20/02/2024 02:58:27	Process execution started
+20/02/2024 02:58:33	Validating the FTP Input folder
