@@ -1,11 +1,11 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="testing" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:upr="clr-namespace:UiPath.Platform.ResourceHandling;assembly=UiPath.Platform" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="testing" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="BreakTriggerScopeInArgument" Type="InArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>690,515</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>638,1433</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>testing_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -61,6 +61,8 @@
       <x:String>UiPath.Python.Activities</x:String>
       <x:String>Microsoft.VisualBasic.CompilerServices</x:String>
       <x:String>System.Globalization</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
     </sco:Collection>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
@@ -138,19 +140,129 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
       <AssemblyReference>UiPath.Python</AssemblyReference>
       <AssemblyReference>UiPath.Python.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="450,103" sap2010:WorkflowViewState.IdRef="Sequence_29">
+  <Sequence sap:VirtualizedContainerService.HintSize="554,1249" sap2010:WorkflowViewState.IdRef="Sequence_32">
     <Sequence.Variables>
-      <Variable x:TypeArguments="scg:List(x:String)" Name="rr" />
-      <Variable x:TypeArguments="upr:ILocalResource" Name="Staging_folder" />
-      <Variable x:TypeArguments="x:Boolean" Name="op" />
-      <Variable x:TypeArguments="x:String" Name="akaka" />
+      <Variable x:TypeArguments="x:Boolean" Name="rk" />
+      <Variable x:TypeArguments="x:String" Name="Employee_sponsor" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
+    <ui:SelectItem ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" AlterIfDisabled="True" DisplayName="Select Item 'INPUT '" sap:VirtualizedContainerService.HintSize="492,135" sap2010:WorkflowViewState.IdRef="SelectItem_5" Item="Gulf Drug L.L.C">
+      <ui:SelectItem.Items>
+        <scg:List x:TypeArguments="x:String" Capacity="32">
+          <x:String>AL MOOSA SONS GENERAL TRADING</x:String>
+          <x:String>ALMOOSA DAY SURGERIES CENTER L.L.C</x:String>
+          <x:String>ARABIAN HOME HEALTH CARE</x:String>
+          <x:String>ARABIAN HOME ORTHOTICS &amp; PROSTHETICS FZ</x:String>
+          <x:String>AlMoosa Diagnostic Center</x:String>
+          <x:String>Almoosa Private Medical Centre LLC - SHJ. BR</x:String>
+          <x:String>Arabian Home Heath Pharmacy</x:String>
+          <x:String>Ardens Medical Investment LLC</x:String>
+          <x:String>BLACKWIRE L.L.C</x:String>
+          <x:String>ELITE STAR AUCTIONS L.L.C</x:String>
+          <x:String>EVE BEAUTY TRADING L.L.C</x:String>
+          <x:String>Endo Choice Medical Equipment</x:String>
+          <x:String>FIFTH ESTATE ADVERTISING L.L.C</x:String>
+          <x:String>GULF DIALYSIS TECHNICAL SERVICES L.L.C</x:String>
+          <x:String>GULF DRUG L.L.C</x:String>
+          <x:String>GULF DRUG L.L.C (MANAGEMENT OFFICE)</x:String>
+          <x:String>GULF MED FZCO</x:String>
+          <x:String>GULF PHARMACY L.L.C</x:String>
+          <x:String>Gulf Drug L.L.C</x:String>
+          <x:String>Gulf Drug L.L.C (Branch)</x:String>
+          <x:String>Gulf Med Medicines LLC</x:String>
+          <x:String>HOSPINORM MAINTENANCE MANAGEMENT L.L.C</x:String>
+          <x:String>IBN HAYAN PHARMACY L.LC</x:String>
+          <x:String>Medserve Medical Investment L.L.C</x:String>
+          <x:String>N/A</x:String>
+          <x:String>ROBOTICS SURGICAL SYSTEMS FZ LLC-DDA</x:String>
+          <x:String>SMART OFFICE SOLUTIONS L.L.C</x:String>
+          <x:String>STERI ARABIA HEALTH INVESTMENT L.L.C</x:String>
+        </scg:List>
+      </ui:SelectItem.Items>
+      <ui:SelectItem.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="e7c43a0a-dd6e-4fea-ac7a-e085f4a45181" InformativeScreenshot="a555ea40c3d26eb5f8494534ba6615fe" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tag='TABLE' idx='44' /&gt;&lt;webctrl tag='INPUT' aaname='MI Group and Subgroup' /&gt;">
+          <ui:Target.TimeoutMS>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:Target.TimeoutMS>
+          <ui:Target.WaitForReady>
+            <InArgument x:TypeArguments="ui:WaitForReady" />
+          </ui:Target.WaitForReady>
+        </ui:Target>
+      </ui:SelectItem.Target>
+    </ui:SelectItem>
+    <Assign sap:VirtualizedContainerService.HintSize="492,82" sap2010:WorkflowViewState.IdRef="Assign_1">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[Employee_sponsor]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">2/1/009104</InArgument>
+      </Assign.Value>
+    </Assign>
+    <ui:RetryScope DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="492,841" sap2010:WorkflowViewState.IdRef="RetryScope_1" NumberOfRetries="3">
+      <ui:RetryScope.ActivityBody>
+        <ActivityAction>
+          <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="450,546" sap2010:WorkflowViewState.IdRef="Sequence_34">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:SelectItem AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="Select Item 'INPUT '" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="SelectItem_6" Item="[Employee_sponsor]">
+              <ui:SelectItem.Items>
+                <scg:List x:TypeArguments="x:String" Capacity="4">
+                  <x:String>2/1/009104</x:String>
+                </scg:List>
+              </ui:SelectItem.Items>
+              <ui:SelectItem.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1eac4099-5b0f-46c4-a4cd-d642ca21da7f" InformativeScreenshot="4326876f10a22bc82f872933ba865ae3" Selector="&lt;html app='chrome.exe' htmlwindowname='m2wiuusvj' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tableCol='73' tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='27' tag='INPUT' /&gt;">
+                  <ui:Target.TimeoutMS>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:Target.TimeoutMS>
+                  <ui:Target.WaitForReady>
+                    <InArgument x:TypeArguments="ui:WaitForReady" />
+                  </ui:Target.WaitForReady>
+                </ui:Target>
+              </ui:SelectItem.Target>
+            </ui:SelectItem>
+            <ui:TextExists FormattedText="{x:Null}" DisplayName="Text Exists 'INPUT '" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TextExists_2" Occurrence="1" Result="[rk]" Text="[Employee_sponsor]">
+              <ui:TextExists.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="fc6505d7-ebb4-4aed-a2e4-8e64d2f07ab1" InformativeScreenshot="0aa5fcdad398432808a242e2ea98b674" Selector="[string.Format(&quot;&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tag='TABLE' idx='44' /&gt;&lt;webctrl tag='INPUT' aaname='Employee Sponsor ID-Establishment Card No' uipath-html-title='{0}' /&gt;&quot;, Employee_sponsor)]">
+                  <ui:Target.TimeoutMS>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:Target.TimeoutMS>
+                  <ui:Target.WaitForReady>
+                    <InArgument x:TypeArguments="ui:WaitForReady" />
+                  </ui:Target.WaitForReady>
+                </ui:Target>
+              </ui:TextExists.Target>
+            </ui:TextExists>
+            <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="388,85" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[rk]" />
+          </Sequence>
+        </ActivityAction>
+      </ui:RetryScope.ActivityBody>
+      <ui:RetryScope.Condition>
+        <ActivityFunc x:TypeArguments="x:Boolean">
+          <ui:TextExists FormattedText="{x:Null}" DisplayName="Text Exists 'INPUT '" sap:VirtualizedContainerService.HintSize="334,135" sap2010:WorkflowViewState.IdRef="TextExists_1" Occurrence="1" Text="[Employee_sponsor]">
+            <ui:TextExists.Target>
+              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="fc6505d7-ebb4-4aed-a2e4-8e64d2f07ab1" InformativeScreenshot="0aa5fcdad398432808a242e2ea98b674" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tag='TABLE' idx='44' /&gt;&lt;webctrl tag='INPUT' aaname='Employee Sponsor ID-Establishment Card No' uipath-html-title='*' /&gt;">
+                <ui:Target.TimeoutMS>
+                  <InArgument x:TypeArguments="x:Int32" />
+                </ui:Target.TimeoutMS>
+                <ui:Target.WaitForReady>
+                  <InArgument x:TypeArguments="ui:WaitForReady" />
+                </ui:Target.WaitForReady>
+              </ui:Target>
+            </ui:TextExists.Target>
+          </ui:TextExists>
+        </ActivityFunc>
+      </ui:RetryScope.Condition>
+    </ui:RetryScope>
   </Sequence>
 </Activity>
