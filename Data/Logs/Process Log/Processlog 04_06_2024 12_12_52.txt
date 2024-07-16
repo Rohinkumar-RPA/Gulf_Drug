@@ -1,0 +1,36 @@
+﻿04/06/2024 12:12:52	BOT Read (Settings And Constants, Assets sheets)
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+04/06/2024 12:12:52	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+04/06/2024 12:12:53	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+04/06/2024 12:12:53	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+04/06/2024 12:12:53	Folder Deleted Created at Path : outgoing/
+04/06/2024 12:12:53	Folder Deleted Created at Path : Exceptions_Screenshots
+04/06/2024 12:12:53	Opening applications...
+04/06/2024 12:13:23	Killing applications...
+04/06/2024 12:13:23	Get transaction item Started
+04/06/2024 12:13:24	Folder is Exist in SFTP
+04/06/2024 12:13:24	Get transaction item Completed
+04/06/2024 12:13:26	Process execution started
+04/06/2024 12:13:29	Validating the FTP Input folder
+04/06/2024 12:19:08	=> SetTransactionStatus Bussiness Exception Process Started
+04/06/2024 12:19:09	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. 98e67ed59e1d1-2c21b978d35sm4185674a91.21 - gsmtp at Source: Send SMTP Mail Message for Failed Process
+04/06/2024 12:19:09	Get transaction item Started
+04/06/2024 12:19:11	Folder is Exist in SFTP
+04/06/2024 12:19:11	Get transaction item Completed
+04/06/2024 12:19:11	Process execution started
+04/06/2024 12:19:13	Validating the FTP Input folder
+04/06/2024 12:26:31	=> Consecutive system exception counter is 0.
+04/06/2024 12:26:31	Take screenshot Process Start
+04/06/2024 12:26:31	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_04_06_31.png
+04/06/2024 12:26:31	System exception.Failed setting the current sheet to: Pending Worker in workbook: C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\Gulfdurg_04_06_2024_12_19.xlsx. Original error message:  The object invoked has disconnected from its clients. (0x80010108 (RPC_E_DISCONNECTED)) at Source: Write Cell status failed
+04/06/2024 12:26:31	Failed to Close Application
+04/06/2024 12:26:31	Applications closed successfully
+04/06/2024 12:27:01	Failed to Close Application
+04/06/2024 12:27:01	System Exception mail sent successfully

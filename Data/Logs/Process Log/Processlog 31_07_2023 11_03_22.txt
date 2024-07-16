@@ -1,0 +1,53 @@
+﻿31/07/2023 11:03:22	BOT Read (Settings And Constants, Assets sheets)
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+31/07/2023 11:03:22	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+31/07/2023 11:03:22	Folder Deleted Created at Path : incoming/
+31/07/2023 11:03:22	Folder Deleted Created at Path : Exceptions_Screenshots
+31/07/2023 11:03:22	Opening applications...
+31/07/2023 11:03:52	Killing applications...
+31/07/2023 11:03:52	Get transaction item Started
+31/07/2023 11:03:56	Folder is Exist in SFTP
+31/07/2023 11:03:56	Get transaction item Completed
+31/07/2023 11:03:58	Process execution started
+31/07/2023 11:04:02	Folder is Empty
+31/07/2023 11:04:02	Get transaction item Started
+31/07/2023 11:04:05	Folder is Exist in SFTP
+31/07/2023 11:04:05	Get transaction item Completed
+31/07/2023 11:04:07	Process execution started
+31/07/2023 11:04:11	Folder is Empty
+31/07/2023 11:04:11	Get transaction item Started
+31/07/2023 11:04:14	Folder is Exist in SFTP
+31/07/2023 11:04:14	Get transaction item Completed
+31/07/2023 11:04:16	Process execution started
+31/07/2023 11:04:20	Folder is Empty
+31/07/2023 11:04:20	Get transaction item Started
+31/07/2023 11:04:23	Folder is Exist in SFTP
+31/07/2023 11:04:23	Get transaction item Completed
+31/07/2023 11:04:25	Process execution started
+31/07/2023 11:04:29	Folder is Empty
+31/07/2023 11:04:29	Get transaction item Started
+31/07/2023 11:04:32	Folder is Exist in SFTP
+31/07/2023 11:04:32	Get transaction item Completed
+31/07/2023 11:04:34	Process execution started
+31/07/2023 11:04:37	Folder is Empty
+31/07/2023 11:04:37	Get transaction item Started
+31/07/2023 11:04:41	Folder is Exist in SFTP
+31/07/2023 11:04:41	Get transaction item Completed
+31/07/2023 11:04:43	Process execution started
+31/07/2023 11:04:46	Folder is Empty
+31/07/2023 11:04:46	Get transaction item Started
+31/07/2023 11:04:49	Folder is Exist in SFTP
+31/07/2023 11:04:49	Get transaction item Completed
+31/07/2023 11:04:51	Process execution started
+31/07/2023 11:04:56	Folder is Empty
+31/07/2023 11:04:56	Get transaction item Started
+31/07/2023 11:04:59	Folder is Exist in SFTP
+31/07/2023 11:04:59	Get transaction item Completed
+31/07/2023 11:05:01	Process execution started
+31/07/2023 11:05:05	Folder is Empty
+31/07/2023 11:05:05	Stop process requested.

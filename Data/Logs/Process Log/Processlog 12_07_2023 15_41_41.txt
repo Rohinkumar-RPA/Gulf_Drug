@@ -1,0 +1,17 @@
+﻿12/07/2023 03:41:41	=> BOT Read (Settings And Constants, Assets sheets)
+12/07/2023 03:41:41	=> Folder Deleted Created
+12/07/2023 03:41:42	=> Folder Deleted Created
+12/07/2023 03:41:42	=> Folder Deleted Created
+12/07/2023 03:41:42	=> Folder Deleted Created
+12/07/2023 03:41:42	=> Folder Created
+12/07/2023 03:41:42	=> Folder Created
+12/07/2023 03:41:42	=> Folder Created
+12/07/2023 03:41:42	=> Folder Created
+12/07/2023 03:41:42	=> Folder Deleted Created
+12/07/2023 03:41:42	=> Folder Deleted Created
+12/07/2023 03:41:46	=> Folder is not Empty
+12/07/2023 03:41:49	=> File Renaming Process
+12/07/2023 03:41:56	=> Login Page Validation
+12/07/2023 03:41:56	=> Login Process
+12/07/2023 03:43:06	=> Login Process
+07/12/2023 15:43:51   All Mandatory Columns are Present

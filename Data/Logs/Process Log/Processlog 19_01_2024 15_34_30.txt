@@ -1,0 +1,23 @@
+﻿19/01/2024 03:34:30	BOT Read (Settings And Constants, Assets sheets)
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+19/01/2024 03:34:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+19/01/2024 03:34:30	Folder Deleted Created at Path : incoming/
+19/01/2024 03:34:30	Folder Deleted Created at Path : Exceptions_Screenshots
+19/01/2024 03:34:35	input file Downloaded and saved
+19/01/2024 03:34:36	Delete Attachment from Input folder SFTP
+19/01/2024 03:34:38	Upload Files in Inprogress folder in SFTP
+19/01/2024 03:34:38	Moved input file to input sheet folder
+19/01/2024 03:34:38	File Renaming Process Completed
+19/01/2024 03:34:42	BOT validating the input sheet
+19/01/2024 03:35:13	Login Page Validation Started
+01/19/2024 15:35:13   Mandatory Columns are Missing
+01/19/2024 15:36:43   Line Items Status Validation in input excel started
+19/01/2024 03:37:22	=> Success status doesn't exist
+19/01/2024 03:37:30	=> Failed status doesn't exist
+01/19/2024 15:37:36   Line Items with Missing field Status successfully updated in separate excel file

@@ -1,0 +1,29 @@
+﻿17/04/2024 12:48:43	BOT Read (Settings And Constants, Assets sheets)
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+17/04/2024 12:48:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+17/04/2024 12:48:43	Folder Deleted Created at Path : outgoing/
+17/04/2024 12:48:43	Folder Deleted Created at Path : Exceptions_Screenshots
+17/04/2024 12:48:46	input file Downloaded and saved
+17/04/2024 12:48:47	Delete Attachment from Input folder SFTP
+17/04/2024 12:48:49	Upload Files in Inprogress folder in SFTP
+17/04/2024 12:48:49	Moved input file to input sheet folder
+17/04/2024 12:48:49	File Renaming Process Completed
+17/04/2024 12:48:53	BOT validating the input sheet
+17/04/2024 12:48:57	Login Page Validation Started
+17/04/2024 12:49:33	Oracle Login failed validation
+17/04/2024 12:50:03	Oracle login Successful
+04/17/2024 12:50:03   Mandatory Columns are Missing
+04/17/2024 12:52:26   Line Items Status Validation in input excel started
+17/04/2024 12:52:26	=> Success status doesn't exist
+17/04/2024 12:52:26	=> Failed status doesn't exist
+04/17/2024 12:52:30   Line Items with Missing field Status successfully updated in separate excel file
+17/04/2024 12:52:30	=> Missing Fields doesn't exist
+04/17/2024 12:52:30   Input file successfully  moved to staging folder
+04/17/2024 12:52:30   Some of the line item contains failed status

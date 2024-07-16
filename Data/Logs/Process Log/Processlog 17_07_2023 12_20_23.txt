@@ -1,0 +1,14 @@
+﻿17/07/2023 12:20:23	BOT Read (Settings And Constants, Assets sheets)
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/07/2023 12:20:23	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/07/2023 12:20:23	Folder Deleted Created at Path : incoming/
+17/07/2023 12:20:23	Folder Deleted Created at Path : Exceptions_Screenshots
+17/07/2023 12:20:30	Folder is not Empty
+17/07/2023 12:20:34	File Renaming Process Completed
+17/07/2023 12:21:03	Login Page Validation Started
+17/07/2023 12:21:03	Oracle Login Process Started

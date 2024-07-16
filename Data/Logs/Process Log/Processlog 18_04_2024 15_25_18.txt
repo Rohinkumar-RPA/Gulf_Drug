@@ -1,0 +1,44 @@
+﻿18/04/2024 03:25:18	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+18/04/2024 03:25:18	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+18/04/2024 03:25:18	Folder Deleted Created at Path : outgoing/
+18/04/2024 03:25:18	Folder Deleted Created at Path : Exceptions_Screenshots
+18/04/2024 03:25:18	Opening applications...
+18/04/2024 03:25:49	Killing applications...
+18/04/2024 03:25:49	Get transaction item Started
+18/04/2024 03:25:50	Folder is Exist in SFTP
+18/04/2024 03:25:50	Get transaction item Completed
+18/04/2024 03:25:52	Process execution started
+18/04/2024 03:25:54	Validating the FTP Input folder
+18/04/2024 03:30:16	=> Consecutive system exception counter is 0.
+18/04/2024 03:30:16	Take screenshot Process Start
+18/04/2024 03:30:16	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_18_04_16.png
+18/04/2024 03:30:16	System exception.Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Candidate Workbench: * - SuccessFactors'/>
+[2] <webctrl id='dlgButton_250_' tag='BUTTON'/>
+
+Search failed at selector tag:
+[2] <webctrl id='dlgButton_250_' tag='BUTTON'/>
+
+The closest matches found are:
+[93%] <webctrl id='dlgButton_236_' tag='BUTTON'/>
+[93%] <webctrl id='dlgButton_221_' tag='BUTTON'/>
+[93%] <webctrl id='dlgButton_222_' tag='BUTTON'/>
+[77%] <webctrl id='returnToListButton_213_' tag='BUTTON'/>
+[76%] <webctrl id='inviteToApplyButton_213_' tag='BUTTON'/>
+[76%] <webctrl id='moveCandidateButton_213_' tag='BUTTON'/>
+[75%] <webctrl id='199_button' tag='BUTTON'/>
+[75%] <webctrl id='194_button' tag='BUTTON'/>
+[74%] <webctrl id='addCandidateToReqButton_213_' tag='BUTTON'/>
+[73%] <webctrl id='237__selectButton' tag='BUTTON'/> at Source: Framework\SAP Process.xaml - Invoke Workflow File: Click 'BUTTON  dlgButton_236_'
+18/04/2024 03:30:16	Failed to Close Application
+18/04/2024 03:30:16	Applications closed successfully
+18/04/2024 03:30:16	Applications closed successfully
+18/04/2024 03:30:16	System Exception mail sent successfully

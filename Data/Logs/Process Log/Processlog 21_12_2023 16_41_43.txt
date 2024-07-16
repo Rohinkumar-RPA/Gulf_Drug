@@ -1,0 +1,25 @@
+﻿21/12/2023 04:41:43	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 04:41:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 04:41:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 04:41:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 04:41:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 04:41:44	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 04:41:44	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 04:41:44	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 04:41:44	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+21/12/2023 04:41:44	Folder Deleted Created at Path : incoming/
+21/12/2023 04:41:44	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 04:41:44	Opening applications...
+21/12/2023 04:41:46	Killing applications...
+21/12/2023 04:42:17	Killing applications...
+21/12/2023 04:42:17	Get transaction item Started
+21/12/2023 04:42:21	Folder is Exist in SFTP
+21/12/2023 04:42:21	Get transaction item Completed
+21/12/2023 04:42:24	Process execution started
+21/12/2023 04:42:29	Validating the FTP Input folder
+21/12/2023 04:53:33	=> SetTransactionStatus Bussiness Exception Process Started
+21/12/2023 04:53:33	=> SetTransactionStatus.xaml failed: The given key 'Business_Exception_Mail_Subject' was not present in the dictionary. at Source: Send SMTP Mail Message Missing Field
+21/12/2023 04:53:33	Get transaction item Started
+21/12/2023 04:53:36	Folder is Exist in SFTP
+21/12/2023 04:53:36	Get transaction item Completed
+21/12/2023 04:53:38	Process execution started

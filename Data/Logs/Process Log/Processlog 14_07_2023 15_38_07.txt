@@ -1,0 +1,23 @@
+﻿14/07/2023 03:38:07	BOT Read (Settings And Constants, Assets sheets)
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+14/07/2023 03:38:07	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+14/07/2023 03:38:07	Folder Deleted Created at Path : incoming/
+14/07/2023 03:38:07	Folder Deleted Created at Path : Exceptions_Screenshots
+14/07/2023 03:38:11	Folder is not Empty
+14/07/2023 03:38:14	File Renaming Process Completed
+14/07/2023 03:38:26	Login Page Validation Started
+14/07/2023 03:38:26	Oracle Login Process Started
+14/07/2023 03:39:03	Oracle login Successful
+07/14/2023 15:39:03   All Mandatory Columns are Present
+14/07/2023 03:39:13	BOT started entering data in Identification tab of Oracle
+14/07/2023 03:39:23	Data entered in Identification tab of Oracle
+14/07/2023 03:39:24	BOT started entering data in Person Information tab of Oracle
+14/07/2023 03:40:23	Data entered in Identification tab of Oracle
+14/07/2023 03:40:28	BOT started entering data in Employee Information tab of Oracle
+14/07/2023 03:42:13	BOT started entering data in Employee Information tab of Oracle
+14/07/2023 03:46:03	Data entered in Employee Information tab of Oracle

@@ -1,0 +1,2 @@
+﻿18/04/2024 02:56:05	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 02:56:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\

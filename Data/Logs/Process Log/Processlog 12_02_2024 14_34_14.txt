@@ -1,0 +1,27 @@
+﻿12/02/2024 02:34:14	BOT Read (Settings And Constants, Assets sheets)
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+12/02/2024 02:34:14	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+12/02/2024 02:34:14	Folder Deleted Created at Path : incoming/
+12/02/2024 02:34:14	Folder Deleted Created at Path : Exceptions_Screenshots
+12/02/2024 02:34:19	input file Downloaded and saved
+12/02/2024 02:34:20	Delete Attachment from Input folder SFTP
+12/02/2024 02:34:23	Upload Files in Inprogress folder in SFTP
+12/02/2024 02:34:23	Moved input file to input sheet folder
+12/02/2024 02:34:23	File Renaming Process Completed
+12/02/2024 02:34:30	BOT validating the input sheet
+12/02/2024 02:34:38	Login Page Validation Started
+12/02/2024 02:35:13	Oracle Login failed validation
+12/02/2024 02:35:43	Oracle login Successful
+02/12/2024 14:35:43   Mandatory Columns are Missing
+02/12/2024 14:38:19   Line Items Status Validation in input excel started
+12/02/2024 02:38:19	=> Success status doesn't exist
+12/02/2024 02:38:19	=> Failed status doesn't exist
+02/12/2024 14:38:25   Line Items with Missing field Status successfully updated in separate excel file
+02/12/2024 14:38:25   Input file successfully  moved to staging folder
+02/12/2024 14:38:25   Some of the line item contains failed status

@@ -1,0 +1,27 @@
+﻿17/04/2024 03:26:13	BOT Read (Settings And Constants, Assets sheets)
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+17/04/2024 03:26:13	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+17/04/2024 03:26:13	Folder Deleted Created at Path : outgoing/
+17/04/2024 03:26:13	Folder Deleted Created at Path : Exceptions_Screenshots
+17/04/2024 03:26:15	input file Downloaded and saved
+17/04/2024 03:26:15	Delete Attachment from Input folder SFTP
+17/04/2024 03:26:16	Upload Files in Inprogress folder in SFTP
+17/04/2024 03:26:16	Moved input file to input sheet folder
+17/04/2024 03:26:16	File Renaming Process Completed
+17/04/2024 03:26:20	BOT validating the input sheet
+17/04/2024 03:26:52	Login Page Validation Started
+04/17/2024 15:26:52   SAP Process Started
+04/17/2024 15:26:53   SAP browser opened
+04/17/2024 15:27:53   Successfully logedin
+04/17/2024 15:27:59   Entering into recruiting tab
+04/17/2024 15:28:03   Entering into job requisitions tab
+04/17/2024 15:28:44   Req ID filter process completed
+04/17/2024 15:28:55   Successfully entered into candidates tab
+04/17/2024 15:29:01   Applicant ID filter process completed

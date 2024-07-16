@@ -1,0 +1,24 @@
+﻿Work Email
+Air Ticket Eligibility for
+Actual Air ticket availed
+Air Ticket Destination Country
+Air Ticket Destination Airport
+Number of adult air ticket
+Number of child air ticket
+Air Ticket Frequency
+Payroll Org
+Medical Insurance Eligibility
+Working Hours Per Day
+Total Dependants
+Emirate as per Visa
+Emirate Work Location
+Eligible for Passport Safekeeping
+Passport with Employee or Company
+Relative 1: Employee Number
+Relative 1: Relationship
+Relative 2: Employee Number
+Relative 2: Relationship
+ Probation Period (Months)
+Notice Period (Months)
+Profession type
+Labor Card Issued By

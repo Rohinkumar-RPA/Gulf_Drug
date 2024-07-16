@@ -1,0 +1,25 @@
+﻿07/06/2024 02:53:29	BOT Read (Settings And Constants, Assets sheets)
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Input\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+07/06/2024 02:53:30	Folder Deleted Created at Path : C:\Users\GULFDRUG\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+07/06/2024 02:53:30	Folder Deleted Created at Path : outgoing/
+07/06/2024 02:53:30	Folder Deleted Created at Path : Exceptions_Screenshots
+07/06/2024 02:53:30	Opening applications...
+07/06/2024 02:54:00	Killing applications...
+07/06/2024 02:54:00	Get transaction item Started
+07/06/2024 02:54:00	Folder is Exist in SFTP
+07/06/2024 02:54:00	Get transaction item Completed
+07/06/2024 02:54:01	Process execution started
+07/06/2024 02:54:14	Validating the Attachment  folder path
+07/06/2024 02:54:14	Folder is Empty
+07/06/2024 02:54:14	Get transaction item Started
+07/06/2024 02:54:14	Folder is Exist in SFTP
+07/06/2024 02:54:14	Get transaction item Completed
+07/06/2024 02:54:14	Process execution started
+07/06/2024 02:54:15	Validating the FTP Input folder

@@ -1,0 +1,20 @@
+﻿04/06/2024 10:28:38	BOT Read (Settings And Constants, Assets sheets)
+04/06/2024 10:28:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+04/06/2024 10:28:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+04/06/2024 10:28:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+04/06/2024 10:28:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+04/06/2024 10:28:39	Folder Deleted Created at Path : outgoing/
+04/06/2024 10:28:39	Folder Deleted Created at Path : Exceptions_Screenshots
+04/06/2024 10:28:41	input file Downloaded and saved
+04/06/2024 10:28:41	Delete Attachment from Input folder SFTP
+04/06/2024 10:28:42	Upload Files in Inprogress folder in SFTP
+04/06/2024 10:28:42	Moved input file to input sheet folder
+04/06/2024 10:28:42	File Renaming Process Completed
+04/06/2024 10:28:45	BOT validating the input sheet
+04/06/2024 10:29:16	Login Page Validation Started
+06/04/2024 10:29:16   SAP Process Started

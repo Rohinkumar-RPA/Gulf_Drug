@@ -1,0 +1,28 @@
+﻿04/06/2024 09:51:56	BOT Read (Settings And Constants, Assets sheets)
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+04/06/2024 09:51:56	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+04/06/2024 09:51:56	Folder Deleted Created at Path : outgoing/
+04/06/2024 09:51:56	Folder Deleted Created at Path : Exceptions_Screenshots
+04/06/2024 09:51:56	Opening applications...
+04/06/2024 09:52:27	Killing applications...
+04/06/2024 09:52:27	Get transaction item Started
+04/06/2024 09:52:28	Folder is Exist in SFTP
+04/06/2024 09:52:28	Get transaction item Completed
+04/06/2024 09:52:30	Process execution started
+04/06/2024 09:52:32	Validating the FTP Input folder
+04/06/2024 10:01:02	=> SetTransactionStatus Bussiness Exception Process Started
+04/06/2024 10:01:04	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. d9443c01a7336-1f632338cafsm73015615ad.25 - gsmtp at Source: Send SMTP Mail Message for Failed Process
+04/06/2024 10:01:04	Get transaction item Started
+04/06/2024 10:01:05	Folder is Exist in SFTP
+04/06/2024 10:01:05	Get transaction item Completed
+04/06/2024 10:01:06	Process execution started
+04/06/2024 10:01:07	Validating the FTP Input folder

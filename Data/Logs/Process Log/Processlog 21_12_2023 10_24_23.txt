@@ -1,0 +1,26 @@
+﻿21/12/2023 10:24:23	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 10:24:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 10:24:24	Folder Deleted Created at Path : incoming/
+21/12/2023 10:24:24	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 10:24:24	Opening applications...
+21/12/2023 10:24:55	Killing applications...
+21/12/2023 10:24:55	Get transaction item Started
+21/12/2023 10:24:59	Folder is Exist in SFTP
+21/12/2023 10:24:59	Get transaction item Completed
+21/12/2023 10:25:02	Process execution started
+21/12/2023 10:25:07	Validating the FTP Input folder
+21/12/2023 10:42:20	=> SetTransactionStatus Success Process Started
+21/12/2023 10:48:24	=> SetTransactionStatus.xaml failed: The given key 'Missing_Status_path' was not present in the dictionary. at Source: Missing Field Proccess in Success: System.Private.CoreLib
+21/12/2023 10:48:24	Get transaction item Started
+21/12/2023 10:48:27	Folder is Exist in SFTP
+21/12/2023 10:48:27	Get transaction item Completed
+21/12/2023 10:48:29	Process execution started
+21/12/2023 10:48:32	Validating the FTP Input folder
+21/12/2023 10:48:32	Folder is Empty
+21/12/2023 10:48:32	Get transaction item Started

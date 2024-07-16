@@ -1,0 +1,206 @@
+﻿18/04/2024 12:56:23	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+18/04/2024 12:56:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+18/04/2024 12:56:23	Folder Deleted Created at Path : outgoing/
+18/04/2024 12:56:23	Folder Deleted Created at Path : Exceptions_Screenshots
+18/04/2024 12:56:23	Opening applications...
+18/04/2024 12:56:54	Killing applications...
+18/04/2024 12:56:54	Get transaction item Started
+18/04/2024 12:56:55	Folder is Exist in SFTP
+18/04/2024 12:56:55	Get transaction item Completed
+18/04/2024 12:56:57	Process execution started
+18/04/2024 12:56:59	Validating the Attachment  folder path
+18/04/2024 12:56:59	Folder is Empty
+18/04/2024 12:56:59	Get transaction item Started
+18/04/2024 12:57:00	Folder is Exist in SFTP
+18/04/2024 12:57:00	Get transaction item Completed
+18/04/2024 12:57:01	Process execution started
+18/04/2024 12:57:02	Validating the Attachment  folder path
+18/04/2024 12:57:02	Folder is Empty
+18/04/2024 12:57:02	Get transaction item Started
+18/04/2024 12:57:03	Folder is Exist in SFTP
+18/04/2024 12:57:03	Get transaction item Completed
+18/04/2024 12:57:04	Process execution started
+18/04/2024 12:57:05	Validating the Attachment  folder path
+18/04/2024 12:57:05	Folder is Empty
+18/04/2024 12:57:06	Get transaction item Started
+18/04/2024 12:57:07	Folder is Exist in SFTP
+18/04/2024 12:57:07	Get transaction item Completed
+18/04/2024 12:57:08	Process execution started
+18/04/2024 12:57:09	Validating the Attachment  folder path
+18/04/2024 12:57:09	Folder is Empty
+18/04/2024 12:57:09	Get transaction item Started
+18/04/2024 12:57:10	Folder is Exist in SFTP
+18/04/2024 12:57:10	Get transaction item Completed
+18/04/2024 12:57:11	Process execution started
+18/04/2024 12:57:13	Validating the Attachment  folder path
+18/04/2024 12:57:13	Folder is Empty
+18/04/2024 12:57:13	Get transaction item Started
+18/04/2024 12:57:14	Folder is Exist in SFTP
+18/04/2024 12:57:14	Get transaction item Completed
+18/04/2024 12:57:15	Process execution started
+18/04/2024 12:57:17	Validating the Attachment  folder path
+18/04/2024 12:57:17	Folder is Empty
+18/04/2024 12:57:17	Get transaction item Started
+18/04/2024 12:57:18	Folder is Exist in SFTP
+18/04/2024 12:57:18	Get transaction item Completed
+18/04/2024 12:57:19	Process execution started
+18/04/2024 12:57:21	Validating the Attachment  folder path
+18/04/2024 12:57:21	Folder is Empty
+18/04/2024 12:57:21	Get transaction item Started
+18/04/2024 12:57:22	Folder is Exist in SFTP
+18/04/2024 12:57:22	Get transaction item Completed
+18/04/2024 12:57:23	Process execution started
+18/04/2024 12:57:24	Validating the Attachment  folder path
+18/04/2024 12:57:24	Folder is Empty
+18/04/2024 12:57:25	Get transaction item Started
+18/04/2024 12:57:26	Folder is Exist in SFTP
+18/04/2024 12:57:26	Get transaction item Completed
+18/04/2024 12:57:27	Process execution started
+18/04/2024 12:57:28	Validating the Attachment  folder path
+18/04/2024 12:57:28	Folder is Empty
+18/04/2024 12:57:28	Get transaction item Started
+18/04/2024 12:57:30	Folder is Exist in SFTP
+18/04/2024 12:57:30	Get transaction item Completed
+18/04/2024 12:57:30	Process execution started
+18/04/2024 12:57:32	Validating the Attachment  folder path
+18/04/2024 12:57:32	Folder is Empty
+18/04/2024 12:57:32	Get transaction item Started
+18/04/2024 12:57:33	Folder is Exist in SFTP
+18/04/2024 12:57:33	Get transaction item Completed
+18/04/2024 12:57:34	Process execution started
+18/04/2024 12:57:35	Validating the Attachment  folder path
+18/04/2024 12:57:35	Folder is Empty
+18/04/2024 12:57:35	Get transaction item Started
+18/04/2024 12:57:37	Folder is Exist in SFTP
+18/04/2024 12:57:37	Get transaction item Completed
+18/04/2024 12:57:38	Process execution started
+18/04/2024 12:57:39	Validating the Attachment  folder path
+18/04/2024 12:57:39	Folder is Empty
+18/04/2024 12:57:39	Get transaction item Started
+18/04/2024 12:57:41	Folder is Exist in SFTP
+18/04/2024 12:57:41	Get transaction item Completed
+18/04/2024 12:57:42	Process execution started
+18/04/2024 12:57:43	Validating the Attachment  folder path
+18/04/2024 12:57:43	Folder is Empty
+18/04/2024 12:57:43	Get transaction item Started
+18/04/2024 12:57:44	Folder is Exist in SFTP
+18/04/2024 12:57:44	Get transaction item Completed
+18/04/2024 12:57:45	Process execution started
+18/04/2024 12:57:47	Validating the Attachment  folder path
+18/04/2024 12:57:47	Folder is Empty
+18/04/2024 12:57:47	Get transaction item Started
+18/04/2024 12:57:48	Folder is Exist in SFTP
+18/04/2024 12:57:48	Get transaction item Completed
+18/04/2024 12:57:49	Process execution started
+18/04/2024 12:57:50	Validating the Attachment  folder path
+18/04/2024 12:57:50	Folder is Empty
+18/04/2024 12:57:50	Get transaction item Started
+18/04/2024 12:57:52	Folder is Exist in SFTP
+18/04/2024 12:57:52	Get transaction item Completed
+18/04/2024 12:57:53	Process execution started
+18/04/2024 12:57:54	Validating the Attachment  folder path
+18/04/2024 12:57:54	Folder is Empty
+18/04/2024 12:57:54	Get transaction item Started
+18/04/2024 12:57:55	Folder is Exist in SFTP
+18/04/2024 12:57:55	Get transaction item Completed
+18/04/2024 12:57:56	Process execution started
+18/04/2024 12:57:57	Validating the Attachment  folder path
+18/04/2024 12:57:57	Folder is Empty
+18/04/2024 12:57:57	Get transaction item Started
+18/04/2024 12:57:59	Folder is Exist in SFTP
+18/04/2024 12:57:59	Get transaction item Completed
+18/04/2024 12:57:59	Process execution started
+18/04/2024 12:58:01	Validating the Attachment  folder path
+18/04/2024 12:58:01	Folder is Empty
+18/04/2024 12:58:01	Get transaction item Started
+18/04/2024 12:58:02	Folder is Exist in SFTP
+18/04/2024 12:58:02	Get transaction item Completed
+18/04/2024 12:58:03	Process execution started
+18/04/2024 12:58:05	Validating the Attachment  folder path
+18/04/2024 12:58:05	Folder is Empty
+18/04/2024 12:58:05	Get transaction item Started
+18/04/2024 12:58:06	Folder is Exist in SFTP
+18/04/2024 12:58:06	Get transaction item Completed
+18/04/2024 12:58:07	Process execution started
+18/04/2024 12:58:08	Validating the Attachment  folder path
+18/04/2024 12:58:08	Folder is Empty
+18/04/2024 12:58:08	Get transaction item Started
+18/04/2024 12:58:09	Folder is Exist in SFTP
+18/04/2024 12:58:09	Get transaction item Completed
+18/04/2024 12:58:10	Process execution started
+18/04/2024 12:58:11	Validating the Attachment  folder path
+18/04/2024 12:58:11	Folder is Empty
+18/04/2024 12:58:11	Get transaction item Started
+18/04/2024 12:58:12	Folder is Exist in SFTP
+18/04/2024 12:58:12	Get transaction item Completed
+18/04/2024 12:58:13	Process execution started
+18/04/2024 12:58:14	Validating the Attachment  folder path
+18/04/2024 12:58:14	Folder is Empty
+18/04/2024 12:58:15	Get transaction item Started
+18/04/2024 12:58:16	Folder is Exist in SFTP
+18/04/2024 12:58:16	Get transaction item Completed
+18/04/2024 12:58:17	Process execution started
+18/04/2024 12:58:18	Validating the Attachment  folder path
+18/04/2024 12:58:18	Folder is Empty
+18/04/2024 12:58:18	Get transaction item Started
+18/04/2024 12:58:19	Folder is Exist in SFTP
+18/04/2024 12:58:20	Get transaction item Completed
+18/04/2024 12:58:20	Process execution started
+18/04/2024 12:58:21	Validating the Attachment  folder path
+18/04/2024 12:58:21	Folder is Empty
+18/04/2024 12:58:22	Get transaction item Started
+18/04/2024 12:58:23	Folder is Exist in SFTP
+18/04/2024 12:58:23	Get transaction item Completed
+18/04/2024 12:58:24	Process execution started
+18/04/2024 12:58:25	Validating the Attachment  folder path
+18/04/2024 12:58:25	Folder is Empty
+18/04/2024 12:58:25	Get transaction item Started
+18/04/2024 12:58:27	Folder is Exist in SFTP
+18/04/2024 12:58:27	Get transaction item Completed
+18/04/2024 12:58:28	Process execution started
+18/04/2024 12:58:29	Validating the Attachment  folder path
+18/04/2024 12:58:29	Folder is Empty
+18/04/2024 12:58:29	Get transaction item Started
+18/04/2024 12:58:30	Folder is Exist in SFTP
+18/04/2024 12:58:30	Get transaction item Completed
+18/04/2024 12:58:31	Process execution started
+18/04/2024 12:58:32	Validating the Attachment  folder path
+18/04/2024 12:58:32	Folder is Empty
+18/04/2024 12:58:33	Get transaction item Started
+18/04/2024 12:58:34	Folder is Exist in SFTP
+18/04/2024 12:58:34	Get transaction item Completed
+18/04/2024 12:58:35	Process execution started
+18/04/2024 12:58:36	Validating the Attachment  folder path
+18/04/2024 12:58:36	Folder is Empty
+18/04/2024 12:58:36	Get transaction item Started
+18/04/2024 12:58:37	Folder is Exist in SFTP
+18/04/2024 12:58:37	Get transaction item Completed
+18/04/2024 12:58:38	Process execution started
+18/04/2024 12:58:40	Validating the FTP Input folder
+18/04/2024 01:10:00	=> Consecutive system exception counter is 0.
+18/04/2024 01:10:00	Take screenshot Process Start
+18/04/2024 01:10:00	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_18_04_00.png
+18/04/2024 01:10:00	System exception.Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications'/>
+[2] <webctrl class='xiz' tableCol='1' tableRow='1' tag='TABLE'/>
+[3] <webctrl aria-role='presentation' innertext='Submit' tableCol='15' tableRow='1' tag='DIV'/>
+
+Search failed at selector tag:
+[1] <html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications'/>
+
+The closest matches found are:
+[93%] <html app='chrome.exe' htmlwindowname='*' title='New Person - Oracle Fusion Cloud Applications'/>
+[80%] <html app='chrome.exe' htmlwindowname='*' title='UAT Test Scenarios - rohinkumar@atominosconsulting.com - atominosconsulting.com Mail'/>
+[76%] <html app='chrome.exe' htmlwindowname='*' title='Web Transfer Client'/> at Source: Click 'Submit'
+18/04/2024 01:10:00	Failed to Close Application
+18/04/2024 01:10:00	Applications closed successfully
+18/04/2024 01:10:30	Failed to Close Application
+18/04/2024 01:10:30	System Exception mail sent successfully

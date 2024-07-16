@@ -1,0 +1,18 @@
+﻿20/12/2023 05:15:42	BOT Read (Settings And Constants, Assets sheets)
+20/12/2023 05:15:42	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+20/12/2023 05:15:43	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+20/12/2023 05:15:43	Folder Deleted Created at Path : incoming/
+20/12/2023 05:15:43	Folder Deleted Created at Path : Exceptions_Screenshots
+20/12/2023 05:15:47	input file Downloaded and saved
+20/12/2023 05:15:48	Delete Attachment from Input folder SFTP
+20/12/2023 05:15:50	Upload Files in Inprogress folder in SFTP
+20/12/2023 05:15:50	Moved input file to input sheet folder
+20/12/2023 05:15:50	File Renaming Process Completed
+20/12/2023 05:15:55	BOT validating the input sheet
+20/12/2023 05:16:00	Login Page Validation Started
+12/20/2023 17:16:06   All Mandatory Columns are Present

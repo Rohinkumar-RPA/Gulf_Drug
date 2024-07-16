@@ -1,0 +1,35 @@
+﻿03/06/2024 11:34:27	BOT Read (Settings And Constants, Assets sheets)
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+03/06/2024 11:34:27	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+03/06/2024 11:34:27	Folder Deleted Created at Path : outgoing/
+03/06/2024 11:34:27	Folder Deleted Created at Path : Exceptions_Screenshots
+03/06/2024 11:34:32	input file Downloaded and saved
+03/06/2024 11:34:33	Delete Attachment from Input folder SFTP
+03/06/2024 11:34:35	Upload Files in Inprogress folder in SFTP
+03/06/2024 11:34:35	Moved input file to input sheet folder
+03/06/2024 11:34:35	File Renaming Process Completed
+03/06/2024 11:34:38	BOT validating the input sheet
+03/06/2024 11:35:09	Login Page Validation Started
+06/03/2024 23:35:09   SAP Process Started
+06/03/2024 23:35:10   SAP browser opened
+06/03/2024 23:36:10   Successfully logedin
+06/03/2024 23:36:17   Entering into recruiting tab
+06/03/2024 23:36:21   Entering into job requisitions tab
+06/03/2024 23:36:30   Req ID filter process completed
+06/03/2024 23:36:44   Successfully entered into candidates tab
+06/03/2024 23:36:51   Applicant ID filter process completed
+06/03/2024 23:37:00   Successfully entered into worker detailed tab
+06/03/2024 23:37:00   Already existed data
+06/03/2024 23:37:00   SAP process successfully completed
+06/03/2024 23:37:44   Line Items Status Validation in input excel started
+03/06/2024 11:37:44	=> Success status doesn't exist
+03/06/2024 11:37:44	=> Failed status doesn't exist
+03/06/2024 11:37:44	=> Missing Fields doesn't exist
+06/03/2024 23:37:49   Line Items with Missing field Status successfully updated in separate excel file

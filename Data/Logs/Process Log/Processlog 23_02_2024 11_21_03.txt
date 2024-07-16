@@ -1,0 +1,29 @@
+﻿23/02/2024 11:21:03	BOT Read (Settings And Constants, Assets sheets)
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+23/02/2024 11:21:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+23/02/2024 11:21:03	Folder Deleted Created at Path : outgoing/
+23/02/2024 11:21:03	Folder Deleted Created at Path : Exceptions_Screenshots
+23/02/2024 11:21:03	Opening applications...
+23/02/2024 11:21:03	Killing applications...
+23/02/2024 11:21:03	Applications closed successfully
+23/02/2024 11:21:33	Killing applications...
+23/02/2024 11:21:33	Get transaction item Started
+23/02/2024 11:21:37	Folder is Exist in SFTP
+23/02/2024 11:21:37	Get transaction item Completed
+23/02/2024 11:21:39	Process execution started
+23/02/2024 11:21:44	Validating the FTP Input folder
+23/02/2024 11:25:24	=> Consecutive system exception counter is 0.
+23/02/2024 11:25:24	Take screenshot Process Start
+23/02/2024 11:25:25	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_23_02_25.png
+23/02/2024 11:25:25	System exception.Action failed to execute as expected. at Source: Framework\SAP Process.xaml - Invoke Workflow File: Retry Scope
+23/02/2024 11:25:25	Failed to Close Application
+23/02/2024 11:25:25	Applications closed successfully
+23/02/2024 11:25:25	Applications closed successfully
+23/02/2024 11:25:25	System Exception mail sent successfully

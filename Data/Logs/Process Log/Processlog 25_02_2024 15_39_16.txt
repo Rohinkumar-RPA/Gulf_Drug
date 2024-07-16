@@ -1,0 +1,25 @@
+﻿25/02/2024 03:39:16	BOT Read (Settings And Constants, Assets sheets)
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+25/02/2024 03:39:17	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+25/02/2024 03:39:17	Folder Deleted Created at Path : outgoing/
+25/02/2024 03:39:17	Folder Deleted Created at Path : Exceptions_Screenshots
+25/02/2024 03:39:17	Opening applications...
+25/02/2024 03:39:47	Killing applications...
+25/02/2024 03:39:47	Get transaction item Started
+25/02/2024 03:39:50	Folder is Exist in SFTP
+25/02/2024 03:39:50	Get transaction item Completed
+25/02/2024 03:39:52	Process execution started
+25/02/2024 03:42:00	Validating the Attachment  folder path
+25/02/2024 03:42:00	Folder is Empty
+25/02/2024 03:42:00	Get transaction item Started
+25/02/2024 03:42:02	Folder is Exist in SFTP
+25/02/2024 03:42:02	Get transaction item Completed
+25/02/2024 03:42:04	Process execution started
+25/02/2024 03:42:07	Validating the FTP Input folder

@@ -1,0 +1,93 @@
+﻿18/04/2024 03:03:48	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+18/04/2024 03:03:48	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+18/04/2024 03:03:48	Folder Deleted Created at Path : outgoing/
+18/04/2024 03:03:48	Folder Deleted Created at Path : Exceptions_Screenshots
+18/04/2024 03:03:48	Opening applications...
+18/04/2024 03:04:19	Killing applications...
+18/04/2024 03:04:19	Get transaction item Started
+18/04/2024 03:04:20	Folder is Exist in SFTP
+18/04/2024 03:04:20	Get transaction item Completed
+18/04/2024 03:04:22	Process execution started
+18/04/2024 03:04:24	Validating the FTP Input folder
+18/04/2024 03:05:09	=> SetTransactionStatus Bussiness Exception Process Started
+18/04/2024 03:05:10	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. cp12-20020a170902e78c00b001e853d9bb42sm1074505plb.196 - gsmtp at Source: Send SMTP Mail Message Missing Field
+18/04/2024 03:05:10	Get transaction item Started
+18/04/2024 03:05:12	Folder is Exist in SFTP
+18/04/2024 03:05:12	Get transaction item Completed
+18/04/2024 03:05:13	Process execution started
+18/04/2024 03:05:14	Validating the FTP Input folder
+18/04/2024 03:05:14	Folder is Empty
+18/04/2024 03:05:14	Get transaction item Started
+18/04/2024 03:05:15	Folder is Exist in SFTP
+18/04/2024 03:05:15	Get transaction item Completed
+18/04/2024 03:05:16	Process execution started
+18/04/2024 03:05:17	Validating the FTP Input folder
+18/04/2024 03:05:17	Folder is Empty
+18/04/2024 03:05:18	Get transaction item Started
+18/04/2024 03:05:19	Folder is Exist in SFTP
+18/04/2024 03:05:19	Get transaction item Completed
+18/04/2024 03:05:20	Process execution started
+18/04/2024 03:05:21	Validating the FTP Input folder
+18/04/2024 03:05:21	Folder is Empty
+18/04/2024 03:05:21	Get transaction item Started
+18/04/2024 03:05:22	Folder is Exist in SFTP
+18/04/2024 03:05:22	Get transaction item Completed
+18/04/2024 03:05:23	Process execution started
+18/04/2024 03:05:24	Validating the FTP Input folder
+18/04/2024 03:05:24	Folder is Empty
+18/04/2024 03:05:24	Get transaction item Started
+18/04/2024 03:05:26	Folder is Exist in SFTP
+18/04/2024 03:05:26	Get transaction item Completed
+18/04/2024 03:05:27	Process execution started
+18/04/2024 03:05:28	Validating the FTP Input folder
+18/04/2024 03:05:28	Folder is Empty
+18/04/2024 03:05:28	Get transaction item Started
+18/04/2024 03:05:29	Folder is Exist in SFTP
+18/04/2024 03:05:29	Get transaction item Completed
+18/04/2024 03:05:30	Process execution started
+18/04/2024 03:05:32	Validating the FTP Input folder
+18/04/2024 03:05:32	Folder is Empty
+18/04/2024 03:05:32	Get transaction item Started
+18/04/2024 03:05:33	Folder is Exist in SFTP
+18/04/2024 03:05:33	Get transaction item Completed
+18/04/2024 03:05:34	Process execution started
+18/04/2024 03:05:35	Validating the FTP Input folder
+18/04/2024 03:05:35	Folder is Empty
+18/04/2024 03:05:35	Get transaction item Started
+18/04/2024 03:05:37	Folder is Exist in SFTP
+18/04/2024 03:05:37	Get transaction item Completed
+18/04/2024 03:05:38	Process execution started
+18/04/2024 03:05:39	Validating the FTP Input folder
+18/04/2024 03:05:39	Folder is Empty
+18/04/2024 03:05:39	Get transaction item Started
+18/04/2024 03:05:41	Folder is Exist in SFTP
+18/04/2024 03:05:41	Get transaction item Completed
+18/04/2024 03:05:42	Process execution started
+18/04/2024 03:05:43	Validating the FTP Input folder
+18/04/2024 03:05:43	Folder is Empty
+18/04/2024 03:05:43	Get transaction item Started
+18/04/2024 03:05:45	Folder is Exist in SFTP
+18/04/2024 03:05:45	Get transaction item Completed
+18/04/2024 03:05:45	Process execution started
+18/04/2024 03:05:47	Validating the FTP Input folder
+18/04/2024 03:05:47	Folder is Empty
+18/04/2024 03:05:47	Get transaction item Started
+18/04/2024 03:05:48	Folder is Exist in SFTP
+18/04/2024 03:05:48	Get transaction item Completed
+18/04/2024 03:05:49	Process execution started
+18/04/2024 03:05:50	Validating the FTP Input folder
+18/04/2024 03:05:50	Folder is Empty
+18/04/2024 03:05:50	Get transaction item Started
+18/04/2024 03:05:51	Folder is Exist in SFTP
+18/04/2024 03:05:51	Get transaction item Completed
+18/04/2024 03:05:52	Process execution started

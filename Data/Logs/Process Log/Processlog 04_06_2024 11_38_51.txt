@@ -1,0 +1,31 @@
+﻿04/06/2024 11:38:51	BOT Read (Settings And Constants, Assets sheets)
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+04/06/2024 11:38:51	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+04/06/2024 11:38:51	Folder Deleted Created at Path : outgoing/
+04/06/2024 11:38:51	Folder Deleted Created at Path : Exceptions_Screenshots
+04/06/2024 11:38:52	Opening applications...
+04/06/2024 11:39:22	Killing applications...
+04/06/2024 11:39:23	Get transaction item Started
+04/06/2024 11:39:24	Folder is Exist in SFTP
+04/06/2024 11:39:24	Get transaction item Completed
+04/06/2024 11:39:27	Process execution started
+04/06/2024 11:39:30	Validating the FTP Input folder
+04/06/2024 11:52:27	=> Consecutive system exception counter is 0.
+04/06/2024 11:52:27	Take screenshot Process Start
+04/06/2024 11:52:27	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_04_06_27.png
+04/06/2024 11:52:27	System exception.Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications'/>
+<webctrl class='xiz' tableCol='1' tableRow='1' tag='TABLE'/>
+<webctrl aria-role='presentation' innertext='Submit' tableCol='15' tableRow='1' tag='DIV'/>
+ at Source: Click 'Submit'
+04/06/2024 11:52:27	Failed to Close Application
+04/06/2024 11:52:57	Failed to Close Application
+04/06/2024 11:53:27	Failed to Close Application
+04/06/2024 11:53:27	System Exception mail sent successfully

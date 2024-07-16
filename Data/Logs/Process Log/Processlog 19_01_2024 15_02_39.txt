@@ -1,0 +1,25 @@
+﻿19/01/2024 03:02:39	BOT Read (Settings And Constants, Assets sheets)
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+19/01/2024 03:02:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+19/01/2024 03:02:39	Folder Deleted Created at Path : incoming/
+19/01/2024 03:02:39	Folder Deleted Created at Path : Exceptions_Screenshots
+19/01/2024 03:02:45	input file Downloaded and saved
+19/01/2024 03:02:45	Delete Attachment from Input folder SFTP
+19/01/2024 03:02:47	Upload Files in Inprogress folder in SFTP
+19/01/2024 03:02:47	Moved input file to input sheet folder
+19/01/2024 03:02:47	File Renaming Process Completed
+19/01/2024 03:02:51	BOT validating the input sheet
+19/01/2024 03:03:22	Login Page Validation Started
+01/19/2024 15:03:22   Mandatory Columns are Missing
+01/19/2024 15:03:29   Line Items Status Validation in input excel started
+19/01/2024 03:03:34	=> Success status doesn't exist
+19/01/2024 03:03:38	=> Failed status doesn't exist
+01/19/2024 15:03:42   Line Items with Missing field Status successfully updated in separate excel file
+01/19/2024 15:03:42   Input file successfully  moved to staging folder
+01/19/2024 15:03:42   Some of the line item contains failed status

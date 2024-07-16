@@ -1,0 +1,13 @@
+﻿31/07/2023 10:55:57	BOT Read (Settings And Constants, Assets sheets)
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+31/07/2023 10:55:57	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+31/07/2023 10:55:57	Folder Deleted Created at Path : incoming/
+31/07/2023 10:55:57	Folder Deleted Created at Path : Exceptions_Screenshots
+31/07/2023 10:55:57	Opening applications...
+31/07/2023 10:56:27	Killing applications...
+31/07/2023 10:56:27	Stop process requested.

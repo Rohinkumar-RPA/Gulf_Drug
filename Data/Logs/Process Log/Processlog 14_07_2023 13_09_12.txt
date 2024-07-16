@@ -1,0 +1,25 @@
+﻿14/07/2023 01:09:12	BOT Read (Settings And Constants, Assets sheets)
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+14/07/2023 01:09:12	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+14/07/2023 01:09:12	Folder Deleted Created at Path : incoming/
+14/07/2023 01:09:12	Folder Deleted Created at Path : Exceptions_Screenshots
+14/07/2023 01:09:16	Folder is not Empty
+14/07/2023 01:09:19	File Renaming Process Completed
+14/07/2023 01:09:28	Login Page Validation Started
+14/07/2023 01:09:28	Oracle Login Process Started
+14/07/2023 01:10:09	Oracle login Successful
+07/14/2023 13:10:09   All Mandatory Columns are Present
+14/07/2023 01:10:19	BOT started entering data in Identification tab of Oracle
+14/07/2023 01:10:29	Data entered in Identification tab of Oracle
+14/07/2023 01:10:29	BOT started entering data in Person Information tab of Oracle
+14/07/2023 01:11:24	Data entered in Identification tab of Oracle
+14/07/2023 01:11:27	BOT started entering data in Employee Information tab of Oracle
+14/07/2023 01:13:10	BOT started entering data in Employee Information tab of Oracle
+14/07/2023 01:14:26	Data entered in Employee Information tab of Oracle
+14/07/2023 01:15:24	=> Failed status doesn't exist
+14/07/2023 01:15:24	=> Missing Fields doesn't exist

@@ -1,0 +1,27 @@
+﻿18/04/2024 03:00:33	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+18/04/2024 03:00:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+18/04/2024 03:00:34	Folder Deleted Created at Path : outgoing/
+18/04/2024 03:00:34	Folder Deleted Created at Path : Exceptions_Screenshots
+18/04/2024 03:00:35	input file Downloaded and saved
+18/04/2024 03:00:35	Delete Attachment from Input folder SFTP
+18/04/2024 03:00:36	Upload Files in Inprogress folder in SFTP
+18/04/2024 03:00:36	Moved input file to input sheet folder
+18/04/2024 03:00:36	File Renaming Process Completed
+18/04/2024 03:00:40	BOT validating the input sheet
+18/04/2024 03:01:11	Login Page Validation Started
+04/18/2024 15:01:11   Mandatory Columns are Missing
+04/18/2024 15:01:24   Line Items Status Validation in input excel started
+18/04/2024 03:01:25	=> Success status doesn't exist
+18/04/2024 03:01:25	=> Failed status doesn't exist
+04/18/2024 15:01:26   Line Items with Missing field Status successfully updated in separate excel file
+18/04/2024 03:01:26	=> Missing Fields doesn't exist
+04/18/2024 15:01:26   Input file successfully  moved to staging folder
+04/18/2024 15:01:26   Some of the line item contains failed status

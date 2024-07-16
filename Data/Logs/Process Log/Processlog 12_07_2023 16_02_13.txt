@@ -1,0 +1,23 @@
+﻿12/07/2023 04:02:13	=> BOT Read (Settings And Constants, Assets sheets)
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Folder Created
+12/07/2023 04:02:13	=> Folder Created
+12/07/2023 04:02:13	=> Folder Created
+12/07/2023 04:02:13	=> Folder Created
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Folder Deleted Created
+12/07/2023 04:02:13	=> Opening applications...
+12/07/2023 04:02:43	=> Killing applications...
+12/07/2023 04:02:43	=> Get the transaction item
+12/07/2023 04:02:46	=>  Folder is Exist
+12/07/2023 04:02:49	=> Process Start
+12/07/2023 04:05:24	=> Consecutive system exception counter is 0.
+12/07/2023 04:05:24	=> Take screenshot Process Start
+12/07/2023 04:05:24	=> Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_12_07_24.png
+12/07/2023 04:05:24	=> System exception.Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' htmlwindowname='*' title='Oracle Fusion Cloud Applications'/>
+<webctrl aaname='My Client Groups' id='groupNode_workforce_management' tag='A'/>
+ at Source: Click 'A  groupNode_workforce_...'

@@ -1,0 +1,381 @@
+﻿18/04/2024 01:24:46	BOT Read (Settings And Constants, Assets sheets)
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+18/04/2024 01:24:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+18/04/2024 01:24:46	Folder Deleted Created at Path : outgoing/
+18/04/2024 01:24:46	Folder Deleted Created at Path : Exceptions_Screenshots
+18/04/2024 01:24:46	Opening applications...
+18/04/2024 01:25:17	Killing applications...
+18/04/2024 01:25:17	Get transaction item Started
+18/04/2024 01:25:18	Folder is Exist in SFTP
+18/04/2024 01:25:18	Get transaction item Completed
+18/04/2024 01:25:20	Process execution started
+18/04/2024 01:25:22	Validating the FTP Input folder
+18/04/2024 01:26:25	=> SetTransactionStatus Bussiness Exception Process Started
+18/04/2024 01:26:26	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. s8-20020a17090a1c0800b002a610ef880bsm2863208pjs.6 - gsmtp at Source: Send SMTP Mail Message Missing Field
+18/04/2024 01:26:26	Get transaction item Started
+18/04/2024 01:26:28	Folder is Exist in SFTP
+18/04/2024 01:26:28	Get transaction item Completed
+18/04/2024 01:26:28	Process execution started
+18/04/2024 01:26:30	Validating the FTP Input folder
+18/04/2024 01:26:30	Folder is Empty
+18/04/2024 01:26:30	Get transaction item Started
+18/04/2024 01:26:31	Folder is Exist in SFTP
+18/04/2024 01:26:31	Get transaction item Completed
+18/04/2024 01:26:32	Process execution started
+18/04/2024 01:26:33	Validating the FTP Input folder
+18/04/2024 01:26:33	Folder is Empty
+18/04/2024 01:26:33	Get transaction item Started
+18/04/2024 01:26:34	Folder is Exist in SFTP
+18/04/2024 01:26:34	Get transaction item Completed
+18/04/2024 01:26:35	Process execution started
+18/04/2024 01:26:36	Validating the FTP Input folder
+18/04/2024 01:26:36	Folder is Empty
+18/04/2024 01:26:36	Get transaction item Started
+18/04/2024 01:26:38	Folder is Exist in SFTP
+18/04/2024 01:26:38	Get transaction item Completed
+18/04/2024 01:26:38	Process execution started
+18/04/2024 01:26:40	Validating the FTP Input folder
+18/04/2024 01:26:40	Folder is Empty
+18/04/2024 01:26:40	Get transaction item Started
+18/04/2024 01:26:41	Folder is Exist in SFTP
+18/04/2024 01:26:41	Get transaction item Completed
+18/04/2024 01:26:42	Process execution started
+18/04/2024 01:26:43	Validating the FTP Input folder
+18/04/2024 01:26:43	Folder is Empty
+18/04/2024 01:26:43	Get transaction item Started
+18/04/2024 01:26:45	Folder is Exist in SFTP
+18/04/2024 01:26:45	Get transaction item Completed
+18/04/2024 01:26:45	Process execution started
+18/04/2024 01:26:47	Validating the FTP Input folder
+18/04/2024 01:26:47	Folder is Empty
+18/04/2024 01:26:47	Get transaction item Started
+18/04/2024 01:26:48	Folder is Exist in SFTP
+18/04/2024 01:26:48	Get transaction item Completed
+18/04/2024 01:26:49	Process execution started
+18/04/2024 01:26:50	Validating the FTP Input folder
+18/04/2024 01:26:50	Folder is Empty
+18/04/2024 01:26:50	Get transaction item Started
+18/04/2024 01:26:51	Folder is Exist in SFTP
+18/04/2024 01:26:51	Get transaction item Completed
+18/04/2024 01:26:52	Process execution started
+18/04/2024 01:26:53	Validating the FTP Input folder
+18/04/2024 01:26:53	Folder is Empty
+18/04/2024 01:26:54	Get transaction item Started
+18/04/2024 01:26:55	Folder is Exist in SFTP
+18/04/2024 01:26:55	Get transaction item Completed
+18/04/2024 01:26:56	Process execution started
+18/04/2024 01:26:57	Validating the FTP Input folder
+18/04/2024 01:26:57	Folder is Empty
+18/04/2024 01:26:57	Get transaction item Started
+18/04/2024 01:26:58	Folder is Exist in SFTP
+18/04/2024 01:26:58	Get transaction item Completed
+18/04/2024 01:26:59	Process execution started
+18/04/2024 01:27:01	Validating the FTP Input folder
+18/04/2024 01:27:01	Folder is Empty
+18/04/2024 01:27:01	Get transaction item Started
+18/04/2024 01:27:02	Folder is Exist in SFTP
+18/04/2024 01:27:02	Get transaction item Completed
+18/04/2024 01:27:03	Process execution started
+18/04/2024 01:27:04	Validating the FTP Input folder
+18/04/2024 01:27:04	Folder is Empty
+18/04/2024 01:27:04	Get transaction item Started
+18/04/2024 01:27:05	Folder is Exist in SFTP
+18/04/2024 01:27:05	Get transaction item Completed
+18/04/2024 01:27:06	Process execution started
+18/04/2024 01:27:07	Validating the FTP Input folder
+18/04/2024 01:27:07	Folder is Empty
+18/04/2024 01:27:07	Get transaction item Started
+18/04/2024 01:27:08	Folder is Exist in SFTP
+18/04/2024 01:27:08	Get transaction item Completed
+18/04/2024 01:27:09	Process execution started
+18/04/2024 01:27:11	Validating the FTP Input folder
+18/04/2024 01:27:11	Folder is Empty
+18/04/2024 01:27:11	Get transaction item Started
+18/04/2024 01:27:12	Folder is Exist in SFTP
+18/04/2024 01:27:12	Get transaction item Completed
+18/04/2024 01:27:13	Process execution started
+18/04/2024 01:27:14	Validating the FTP Input folder
+18/04/2024 01:27:14	Folder is Empty
+18/04/2024 01:27:14	Get transaction item Started
+18/04/2024 01:27:16	Folder is Exist in SFTP
+18/04/2024 01:27:16	Get transaction item Completed
+18/04/2024 01:27:16	Process execution started
+18/04/2024 01:27:17	Validating the FTP Input folder
+18/04/2024 01:27:17	Folder is Empty
+18/04/2024 01:27:18	Get transaction item Started
+18/04/2024 01:27:19	Folder is Exist in SFTP
+18/04/2024 01:27:19	Get transaction item Completed
+18/04/2024 01:27:19	Process execution started
+18/04/2024 01:27:21	Validating the FTP Input folder
+18/04/2024 01:27:21	Folder is Empty
+18/04/2024 01:27:21	Get transaction item Started
+18/04/2024 01:27:22	Folder is Exist in SFTP
+18/04/2024 01:27:22	Get transaction item Completed
+18/04/2024 01:27:23	Process execution started
+18/04/2024 01:27:24	Validating the FTP Input folder
+18/04/2024 01:27:24	Folder is Empty
+18/04/2024 01:27:24	Get transaction item Started
+18/04/2024 01:27:25	Folder is Exist in SFTP
+18/04/2024 01:27:25	Get transaction item Completed
+18/04/2024 01:27:26	Process execution started
+18/04/2024 01:27:27	Validating the FTP Input folder
+18/04/2024 01:27:27	Folder is Empty
+18/04/2024 01:27:27	Get transaction item Started
+18/04/2024 01:27:29	Folder is Exist in SFTP
+18/04/2024 01:27:29	Get transaction item Completed
+18/04/2024 01:27:30	Process execution started
+18/04/2024 01:27:31	Validating the FTP Input folder
+18/04/2024 01:27:31	Folder is Empty
+18/04/2024 01:27:31	Get transaction item Started
+18/04/2024 01:27:32	Folder is Exist in SFTP
+18/04/2024 01:27:32	Get transaction item Completed
+18/04/2024 01:27:33	Process execution started
+18/04/2024 01:27:34	Validating the FTP Input folder
+18/04/2024 01:27:34	Folder is Empty
+18/04/2024 01:27:35	Get transaction item Started
+18/04/2024 01:27:36	Folder is Exist in SFTP
+18/04/2024 01:27:36	Get transaction item Completed
+18/04/2024 01:27:37	Process execution started
+18/04/2024 01:27:38	Validating the FTP Input folder
+18/04/2024 01:27:38	Folder is Empty
+18/04/2024 01:27:38	Get transaction item Started
+18/04/2024 01:27:39	Folder is Exist in SFTP
+18/04/2024 01:27:39	Get transaction item Completed
+18/04/2024 01:27:40	Process execution started
+18/04/2024 01:27:41	Validating the FTP Input folder
+18/04/2024 01:27:41	Folder is Empty
+18/04/2024 01:27:41	Get transaction item Started
+18/04/2024 01:27:43	Folder is Exist in SFTP
+18/04/2024 01:27:43	Get transaction item Completed
+18/04/2024 01:27:44	Process execution started
+18/04/2024 01:27:45	Validating the FTP Input folder
+18/04/2024 01:27:45	Folder is Empty
+18/04/2024 01:27:45	Get transaction item Started
+18/04/2024 01:27:46	Folder is Exist in SFTP
+18/04/2024 01:27:46	Get transaction item Completed
+18/04/2024 01:27:47	Process execution started
+18/04/2024 01:27:49	Validating the FTP Input folder
+18/04/2024 01:27:49	Folder is Empty
+18/04/2024 01:27:49	Get transaction item Started
+18/04/2024 01:27:50	Folder is Exist in SFTP
+18/04/2024 01:27:50	Get transaction item Completed
+18/04/2024 01:27:51	Process execution started
+18/04/2024 01:27:52	Validating the FTP Input folder
+18/04/2024 01:27:52	Folder is Empty
+18/04/2024 01:27:52	Get transaction item Started
+18/04/2024 01:27:54	Folder is Exist in SFTP
+18/04/2024 01:27:54	Get transaction item Completed
+18/04/2024 01:27:54	Process execution started
+18/04/2024 01:27:56	Validating the FTP Input folder
+18/04/2024 01:27:56	Folder is Empty
+18/04/2024 01:27:56	Get transaction item Started
+18/04/2024 01:27:57	Folder is Exist in SFTP
+18/04/2024 01:27:57	Get transaction item Completed
+18/04/2024 01:27:58	Process execution started
+18/04/2024 01:27:59	Validating the FTP Input folder
+18/04/2024 01:27:59	Folder is Empty
+18/04/2024 01:27:59	Get transaction item Started
+18/04/2024 01:28:00	Folder is Exist in SFTP
+18/04/2024 01:28:00	Get transaction item Completed
+18/04/2024 01:28:01	Process execution started
+18/04/2024 01:28:02	Validating the FTP Input folder
+18/04/2024 01:28:02	Folder is Empty
+18/04/2024 01:28:02	Get transaction item Started
+18/04/2024 01:28:04	Folder is Exist in SFTP
+18/04/2024 01:28:04	Get transaction item Completed
+18/04/2024 01:28:05	Process execution started
+18/04/2024 01:28:06	Validating the FTP Input folder
+18/04/2024 01:28:06	Folder is Empty
+18/04/2024 01:28:06	Get transaction item Started
+18/04/2024 01:28:07	Folder is Exist in SFTP
+18/04/2024 01:28:07	Get transaction item Completed
+18/04/2024 01:28:08	Process execution started
+18/04/2024 01:28:10	Validating the FTP Input folder
+18/04/2024 01:28:10	Folder is Empty
+18/04/2024 01:28:10	Get transaction item Started
+18/04/2024 01:28:11	Folder is Exist in SFTP
+18/04/2024 01:28:11	Get transaction item Completed
+18/04/2024 01:28:12	Process execution started
+18/04/2024 01:28:14	Validating the FTP Input folder
+18/04/2024 01:28:14	Folder is Empty
+18/04/2024 01:28:14	Get transaction item Started
+18/04/2024 01:28:15	Folder is Exist in SFTP
+18/04/2024 01:28:15	Get transaction item Completed
+18/04/2024 01:28:16	Process execution started
+18/04/2024 01:28:17	Validating the FTP Input folder
+18/04/2024 01:28:17	Folder is Empty
+18/04/2024 01:28:17	Get transaction item Started
+18/04/2024 01:28:18	Folder is Exist in SFTP
+18/04/2024 01:28:18	Get transaction item Completed
+18/04/2024 01:28:19	Process execution started
+18/04/2024 01:28:20	Validating the FTP Input folder
+18/04/2024 01:28:20	Folder is Empty
+18/04/2024 01:28:21	Get transaction item Started
+18/04/2024 01:28:22	Folder is Exist in SFTP
+18/04/2024 01:28:22	Get transaction item Completed
+18/04/2024 01:28:23	Process execution started
+18/04/2024 01:28:24	Validating the FTP Input folder
+18/04/2024 01:28:24	Folder is Empty
+18/04/2024 01:28:25	Get transaction item Started
+18/04/2024 01:28:26	Folder is Exist in SFTP
+18/04/2024 01:28:26	Get transaction item Completed
+18/04/2024 01:28:26	Process execution started
+18/04/2024 01:28:28	Validating the FTP Input folder
+18/04/2024 01:28:28	Folder is Empty
+18/04/2024 01:28:28	Get transaction item Started
+18/04/2024 01:28:29	Folder is Exist in SFTP
+18/04/2024 01:28:29	Get transaction item Completed
+18/04/2024 01:28:29	Process execution started
+18/04/2024 01:28:31	Validating the FTP Input folder
+18/04/2024 01:28:31	Folder is Empty
+18/04/2024 01:28:31	Get transaction item Started
+18/04/2024 01:28:32	Folder is Exist in SFTP
+18/04/2024 01:28:32	Get transaction item Completed
+18/04/2024 01:28:33	Process execution started
+18/04/2024 01:28:34	Validating the FTP Input folder
+18/04/2024 01:28:34	Folder is Empty
+18/04/2024 01:28:34	Get transaction item Started
+18/04/2024 01:28:35	Folder is Exist in SFTP
+18/04/2024 01:28:35	Get transaction item Completed
+18/04/2024 01:28:36	Process execution started
+18/04/2024 01:28:37	Validating the FTP Input folder
+18/04/2024 01:28:37	Folder is Empty
+18/04/2024 01:28:37	Get transaction item Started
+18/04/2024 01:28:39	Folder is Exist in SFTP
+18/04/2024 01:28:39	Get transaction item Completed
+18/04/2024 01:28:39	Process execution started
+18/04/2024 01:28:41	Validating the FTP Input folder
+18/04/2024 01:28:41	Folder is Empty
+18/04/2024 01:28:41	Get transaction item Started
+18/04/2024 01:28:42	Folder is Exist in SFTP
+18/04/2024 01:28:42	Get transaction item Completed
+18/04/2024 01:28:43	Process execution started
+18/04/2024 01:28:44	Validating the FTP Input folder
+18/04/2024 01:28:44	Folder is Empty
+18/04/2024 01:28:44	Get transaction item Started
+18/04/2024 01:28:46	Folder is Exist in SFTP
+18/04/2024 01:28:46	Get transaction item Completed
+18/04/2024 01:28:46	Process execution started
+18/04/2024 01:28:48	Validating the FTP Input folder
+18/04/2024 01:28:48	Folder is Empty
+18/04/2024 01:28:48	Get transaction item Started
+18/04/2024 01:28:49	Folder is Exist in SFTP
+18/04/2024 01:28:49	Get transaction item Completed
+18/04/2024 01:28:50	Process execution started
+18/04/2024 01:28:51	Validating the FTP Input folder
+18/04/2024 01:28:51	Folder is Empty
+18/04/2024 01:28:51	Get transaction item Started
+18/04/2024 01:28:52	Folder is Exist in SFTP
+18/04/2024 01:28:52	Get transaction item Completed
+18/04/2024 01:28:53	Process execution started
+18/04/2024 01:28:55	Validating the FTP Input folder
+18/04/2024 01:28:55	Folder is Empty
+18/04/2024 01:28:55	Get transaction item Started
+18/04/2024 01:28:56	Folder is Exist in SFTP
+18/04/2024 01:28:56	Get transaction item Completed
+18/04/2024 01:28:57	Process execution started
+18/04/2024 01:28:58	Validating the FTP Input folder
+18/04/2024 01:28:58	Folder is Empty
+18/04/2024 01:28:58	Get transaction item Started
+18/04/2024 01:28:59	Folder is Exist in SFTP
+18/04/2024 01:28:59	Get transaction item Completed
+18/04/2024 01:29:00	Process execution started
+18/04/2024 01:29:01	Validating the FTP Input folder
+18/04/2024 01:29:01	Folder is Empty
+18/04/2024 01:29:01	Get transaction item Started
+18/04/2024 01:29:02	Folder is Exist in SFTP
+18/04/2024 01:29:02	Get transaction item Completed
+18/04/2024 01:29:03	Process execution started
+18/04/2024 01:29:04	Validating the FTP Input folder
+18/04/2024 01:29:05	Folder is Empty
+18/04/2024 01:29:05	Get transaction item Started
+18/04/2024 01:29:06	Folder is Exist in SFTP
+18/04/2024 01:29:06	Get transaction item Completed
+18/04/2024 01:29:07	Process execution started
+18/04/2024 01:29:08	Validating the FTP Input folder
+18/04/2024 01:29:08	Folder is Empty
+18/04/2024 01:29:08	Get transaction item Started
+18/04/2024 01:29:09	Folder is Exist in SFTP
+18/04/2024 01:29:09	Get transaction item Completed
+18/04/2024 01:29:10	Process execution started
+18/04/2024 01:29:12	Validating the FTP Input folder
+18/04/2024 01:29:12	Folder is Empty
+18/04/2024 01:29:12	Get transaction item Started
+18/04/2024 01:29:13	Folder is Exist in SFTP
+18/04/2024 01:29:13	Get transaction item Completed
+18/04/2024 01:29:14	Process execution started
+18/04/2024 01:29:15	Validating the FTP Input folder
+18/04/2024 01:29:15	Folder is Empty
+18/04/2024 01:29:15	Get transaction item Started
+18/04/2024 01:29:16	Folder is Exist in SFTP
+18/04/2024 01:29:16	Get transaction item Completed
+18/04/2024 01:29:17	Process execution started
+18/04/2024 01:29:18	Validating the FTP Input folder
+18/04/2024 01:29:18	Folder is Empty
+18/04/2024 01:29:18	Get transaction item Started
+18/04/2024 01:29:19	Folder is Exist in SFTP
+18/04/2024 01:29:19	Get transaction item Completed
+18/04/2024 01:29:20	Process execution started
+18/04/2024 01:29:21	Validating the FTP Input folder
+18/04/2024 01:29:21	Folder is Empty
+18/04/2024 01:29:21	Get transaction item Started
+18/04/2024 01:29:23	Folder is Exist in SFTP
+18/04/2024 01:29:23	Get transaction item Completed
+18/04/2024 01:29:23	Process execution started
+18/04/2024 01:29:25	Validating the FTP Input folder
+18/04/2024 01:29:25	Folder is Empty
+18/04/2024 01:29:25	Get transaction item Started
+18/04/2024 01:29:26	Folder is Exist in SFTP
+18/04/2024 01:29:26	Get transaction item Completed
+18/04/2024 01:29:27	Process execution started
+18/04/2024 01:29:28	Validating the FTP Input folder
+18/04/2024 01:29:28	Folder is Empty
+18/04/2024 01:29:28	Get transaction item Started
+18/04/2024 01:29:29	Folder is Exist in SFTP
+18/04/2024 01:29:29	Get transaction item Completed
+18/04/2024 01:29:30	Process execution started
+18/04/2024 01:29:31	Validating the FTP Input folder
+18/04/2024 01:29:31	Folder is Empty
+18/04/2024 01:29:32	Get transaction item Started
+18/04/2024 01:29:33	Folder is Exist in SFTP
+18/04/2024 01:29:33	Get transaction item Completed
+18/04/2024 01:29:34	Process execution started
+18/04/2024 01:29:35	Validating the FTP Input folder
+18/04/2024 01:29:35	Folder is Empty
+18/04/2024 01:29:35	Get transaction item Started
+18/04/2024 01:29:37	Folder is Exist in SFTP
+18/04/2024 01:29:37	Get transaction item Completed
+18/04/2024 01:29:38	Process execution started
+18/04/2024 01:29:39	Validating the FTP Input folder
+18/04/2024 01:29:39	Folder is Empty
+18/04/2024 01:29:39	Get transaction item Started
+18/04/2024 01:29:40	Folder is Exist in SFTP
+18/04/2024 01:29:40	Get transaction item Completed
+18/04/2024 01:29:41	Process execution started
+18/04/2024 01:29:42	Validating the FTP Input folder
+18/04/2024 01:29:42	Folder is Empty
+18/04/2024 01:29:43	Get transaction item Started
+18/04/2024 01:29:44	Folder is Exist in SFTP
+18/04/2024 01:29:44	Get transaction item Completed
+18/04/2024 01:29:44	Process execution started
+18/04/2024 01:29:46	Validating the FTP Input folder
+18/04/2024 01:29:46	Folder is Empty
+18/04/2024 01:29:46	Get transaction item Started
+18/04/2024 01:29:47	Folder is Exist in SFTP
+18/04/2024 01:29:47	Get transaction item Completed
+18/04/2024 01:29:48	Process execution started
+18/04/2024 01:29:49	Validating the FTP Input folder
+18/04/2024 01:29:49	Folder is Empty
+18/04/2024 01:29:49	Get transaction item Started
+18/04/2024 01:29:50	Folder is Exist in SFTP
+18/04/2024 01:29:50	Get transaction item Completed
+18/04/2024 01:29:51	Process execution started

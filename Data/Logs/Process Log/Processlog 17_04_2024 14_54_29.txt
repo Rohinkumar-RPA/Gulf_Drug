@@ -1,0 +1,43 @@
+﻿17/04/2024 02:54:29	BOT Read (Settings And Constants, Assets sheets)
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/04/2024 02:54:29	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+17/04/2024 02:54:30	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+17/04/2024 02:54:30	Folder Deleted Created at Path : outgoing/
+17/04/2024 02:54:30	Folder Deleted Created at Path : Exceptions_Screenshots
+17/04/2024 02:54:30	Opening applications...
+17/04/2024 02:54:31	Killing applications...
+17/04/2024 02:54:54	Applications closed successfully
+17/04/2024 02:54:54	Killing applications...
+17/04/2024 02:55:00	Applications closed successfully
+17/04/2024 02:55:00	Killing applications...
+17/04/2024 02:55:15	Applications closed successfully
+17/04/2024 02:55:15	Killing applications...
+17/04/2024 02:55:45	Failed to Close Application
+17/04/2024 02:56:15	Killing applications...
+17/04/2024 02:56:15	Get transaction item Started
+17/04/2024 02:56:17	Folder is Exist in SFTP
+17/04/2024 02:56:17	Get transaction item Completed
+17/04/2024 02:56:18	Process execution started
+17/04/2024 02:56:20	Validating the FTP Input folder
+17/04/2024 03:00:36	=> Consecutive system exception counter is 0.
+17/04/2024 03:00:36	Take screenshot Process Start
+17/04/2024 03:00:36	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_17_04_36.png
+17/04/2024 03:00:36	System exception.Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' htmlwindowname='*' title='New Person - Oracle Fusion Cloud Applications'/>
+[2] <webctrl css-selector='body&gt;div&gt;form&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;table&gt;tbody&gt;tr&gt;td&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;div&gt;table' idx='3' tag='TABLE'/>
+[3] <webctrl aaname='Add a Pending Worker' idx='3'/>
+
+Search failed at selector tag:
+[3] <webctrl aaname='Add a Pending Worker' idx='3'/>
+
+The closest matches found are:
+[ 0%] <webctrl aaname=''/> at Source: Retry Scope for click
+17/04/2024 03:00:37	Failed to Close Application
+17/04/2024 03:00:37	Applications closed successfully
+17/04/2024 03:01:07	Failed to Close Application

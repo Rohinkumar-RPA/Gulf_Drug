@@ -1,0 +1,12 @@
+﻿17/07/2023 01:20:30	BOT Read (Settings And Constants, Assets sheets)
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/07/2023 01:20:30	Folder Deleted Created at Path : C:\Users\Aneesha\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/07/2023 01:20:31	Folder Deleted Created at Path : incoming/
+17/07/2023 01:20:31	Folder Deleted Created at Path : Exceptions_Screenshots
+17/07/2023 01:20:36	Folder is not Empty
+17/07/2023 01:20:40	File Renaming Process Completed

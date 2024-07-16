@@ -1,0 +1,211 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Mandatory_Column_Validation" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="In_ReadRange" Type="InArgument(sd:DataTable)" />
+    <x:Property Name="Config" Type="InArgument(scg:Dictionary(x:String, x:Object))" />
+  </x:Members>
+  <VisualBasic.Settings>
+    <x:Null />
+  </VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>680,702</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>Mandatory_Column_Validation_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.Platform.ResourceHandling</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+      <AssemblyReference>Microsoft.Win32.Primitives</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Flowchart DisplayName="Mandatory_Column_Validation" sap:VirtualizedContainerService.HintSize="740,475" sap2010:WorkflowViewState.IdRef="Flowchart_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <av:Point x:Key="ShapeLocation">270,2.5</av:Point>
+        <av:Size x:Key="ShapeSize">50,50</av:Size>
+        <av:PointCollection x:Key="ConnectorLocation">295,52.5 295,82.5 245,82.5 245,157.5</av:PointCollection>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Flowchart.StartNode>
+      <x:Reference>__ReferenceID0</x:Reference>
+    </Flowchart.StartNode>
+    <FlowStep x:Name="__ReferenceID0">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <av:Point x:Key="ShapeLocation">190,157.5</av:Point>
+          <av:Size x:Key="ShapeSize">110,70</av:Size>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[In_ReadRange]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="684,1521" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+        <ui:ForEachRow.Body>
+          <ActivityAction x:TypeArguments="sd:DataRow">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="sd:DataRow" Name="CurrentRow" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="650,1404" sap2010:WorkflowViewState.IdRef="Sequence_11">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <If Condition="[Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Start Date&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Action&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Legal Employer&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Worker Type&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Family Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;First Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Middle Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Gender&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Date Of Birth&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Address Line 1&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Emirate&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;WMP&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;WE&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Number&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;HE&quot;).ToString)) And (Not(String.IsNullOrEmpty(CurrentRow(&quot;Work Email&quot;).ToString)) or Not(String.IsNullOrEmpty(CurrentRow(&quot;Home Email&quot;).ToString))) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Marital Status&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Religion&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Citizenship&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Status&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Business Unit&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Position&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Job&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Department&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Location&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Unit&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Assignment Category&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Eligible for Air Ticket&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Air Ticket Eligibility for&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Actual Air ticket availed&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Air Ticket Class&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Air Ticket Destination Country&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Air Ticket Destination Airport&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Number of adult air ticket&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Number of child air ticket&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Air Ticket Frequency&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Employment Mode&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Payroll Org&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Medical Insurance Category&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Medical Insurance Eligibility&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot; Probation Period (Months)&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Notice Period (Months)&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Special Allowance&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Special Allowance Amount&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Mobile Device&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Mobile Allowance Plan&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Mobile Allowance Plan Amount / SIM Cap Amount&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Company Vehicle&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Company Vehicle Type&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Company Laptop/Computer&quot;) .ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Company Accommodation&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Company Accommodation Type&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Salary Basis as per Labor Contract&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Payroll Currency&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Working Days Per Week&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Working Hours Per Day&quot;) .ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Emirate Work Location&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Visa Sponsor&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Total Dependants&quot;) .ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Emirate Of Residence&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Country Of Residence&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Sponsor Type Options&quot;) .ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;MI Group and Subgroup&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Emirate as per Visa&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Employee Sponsor ID-Establishment Card No&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Dependants Children (Above 18)&quot;) .ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Tablet&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Attendance Status&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Eligible for Passport Safekeeping&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Passport with Employee or Company&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Relative of Existing Employee&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Relative 1: Employee Number&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Relative 1: Relationship&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Relative 2: Employee Number&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Relative 2: Relationship&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 1 Full Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 1 Mobile Number&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 1 Email&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 1 Address&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 1 Relationship&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 2 Full Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 2 Mobile Number&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 2 Email&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 2 Address&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Beneficiary 2 Relationship&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Job Requisition ID&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Candidate ID&quot;).ToString))]" sap:VirtualizedContainerService.HintSize="588,1319" sap2010:WorkflowViewState.IdRef="If_2">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <If.Then>
+                  <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="512,453" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <Sequence DisplayName="LOGS" sap:VirtualizedContainerService.HintSize="450,368" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,124" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;All Mandatory Columns are Present&quot;]" />
+                      <ui:AppendLine File="{x:Null}" DisplayName="Append Line" FileName="[Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="388,133" sap2010:WorkflowViewState.IdRef="AppendLine_3" Text="[Now.ToString+&quot;   &quot;+&quot;All Mandatory Columns are Present&quot;]" UseDefaultEncoding="False">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                      </ui:AppendLine>
+                    </Sequence>
+                  </Sequence>
+                </If.Then>
+                <If.Else>
+                  <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="554,705" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <Sequence DisplayName="Exception Sequence" sap:VirtualizedContainerService.HintSize="512,617" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <Sequence DisplayName="LOGS" sap:VirtualizedContainerService.HintSize="450,376" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,92" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;Mandatory Columns are Missing&quot;]">
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                        </ui:LogMessage>
+                        <ui:AppendLine File="{x:Null}" DisplayName="Append Line" FileName="[Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="388,133" sap2010:WorkflowViewState.IdRef="AppendLine_4" Text="[Now.ToString+&quot;   &quot;+&quot;Mandatory Columns are Missing&quot;]" UseDefaultEncoding="False">
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                        </ui:AppendLine>
+                      </Sequence>
+                      <Throw Exception="[New BusinessRuleException(&quot;Mandatory Column Name Missing In The Excel Template &quot;)]" sap:VirtualizedContainerService.HintSize="450,90" sap2010:WorkflowViewState.IdRef="Throw_2" />
+                    </Sequence>
+                  </Sequence>
+                </If.Else>
+              </If>
+            </Sequence>
+          </ActivityAction>
+        </ui:ForEachRow.Body>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:ForEachRow>
+    </FlowStep>
+  </Flowchart>
+</Activity>

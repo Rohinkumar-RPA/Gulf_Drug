@@ -1,0 +1,19 @@
+﻿27/11/2023 10:29:03	BOT Read (Settings And Constants, Assets sheets)
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+27/11/2023 10:29:03	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+27/11/2023 10:29:03	Folder Deleted Created at Path : incoming/
+27/11/2023 10:29:04	Folder Deleted Created at Path : Exceptions_Screenshots
+27/11/2023 10:29:08	input file Downloaded and saved
+27/11/2023 10:29:09	Delete Attachment from Input folder SFTP
+27/11/2023 10:29:11	Upload Files in Inprogress folder in SFTP
+27/11/2023 10:29:11	Moved input file to input sheet folder
+27/11/2023 10:29:11	File Renaming Process Completed
+27/11/2023 10:29:14	BOT validating the input sheet
+27/11/2023 10:29:45	Login Page Validation Started
+27/11/2023 10:29:45	Oracle Login Process Started
+27/11/2023 10:30:35	Oracle Login Process Started

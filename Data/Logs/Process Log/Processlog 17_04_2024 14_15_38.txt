@@ -1,0 +1,38 @@
+﻿17/04/2024 02:15:38	BOT Read (Settings And Constants, Assets sheets)
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+17/04/2024 02:15:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+17/04/2024 02:15:38	Folder Deleted Created at Path : outgoing/
+17/04/2024 02:15:38	Folder Deleted Created at Path : Exceptions_Screenshots
+17/04/2024 02:15:40	input file Downloaded and saved
+17/04/2024 02:15:40	Delete Attachment from Input folder SFTP
+17/04/2024 02:15:41	Upload Files in Inprogress folder in SFTP
+17/04/2024 02:15:41	Moved input file to input sheet folder
+17/04/2024 02:15:41	File Renaming Process Completed
+17/04/2024 02:15:45	BOT validating the input sheet
+17/04/2024 02:16:16	Login Page Validation Started
+04/17/2024 14:16:16   SAP Process Started
+04/17/2024 14:16:17   SAP browser opened
+04/17/2024 14:17:18   Successfully logedin
+04/17/2024 14:17:25   Entering into recruiting tab
+04/17/2024 14:17:29   Entering into job requisitions tab
+04/17/2024 14:17:36   Req ID filter process completed
+04/17/2024 14:17:47   Successfully entered into candidates tab
+04/17/2024 14:17:52   Applicant ID filter process completed
+04/17/2024 14:17:55   Successfully entered into worker detailed tab
+04/17/2024 14:18:00   Successfully changed the value from NO to YES
+04/17/2024 14:18:00   SAP process successfully completed
+04/17/2024 14:18:00   All Mandatory Columns are Present
+17/04/2024 02:18:12	BOT started entering data in Identification tab of Oracle
+17/04/2024 02:18:51	BOT Data entered in Identification tab of Oracle
+17/04/2024 02:18:51	BOT started entering data in Person Information tab of Oracle
+17/04/2024 02:19:10	BOT Data entered in Person Info tab of Oracle
+17/04/2024 02:19:12	BOT Data entered in Person Profile tab of Oracle
+17/04/2024 02:19:14	BOT started entering data in Employee Information tab of Oracle
+17/04/2024 02:19:21	BOT started entering data in Employee Information tab of Oracle

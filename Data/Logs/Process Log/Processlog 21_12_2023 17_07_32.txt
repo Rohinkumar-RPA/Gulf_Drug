@@ -1,0 +1,31 @@
+﻿21/12/2023 05:07:32	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 05:07:32	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 05:07:33	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+21/12/2023 05:07:33	Folder Deleted Created at Path : incoming/
+21/12/2023 05:07:33	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 05:07:33	Opening applications...
+21/12/2023 05:08:03	Killing applications...
+21/12/2023 05:08:04	Get transaction item Started
+21/12/2023 05:08:07	Folder is Exist in SFTP
+21/12/2023 05:08:07	Get transaction item Completed
+21/12/2023 05:08:10	Process execution started
+21/12/2023 05:08:15	Validating the FTP Input folder
+21/12/2023 05:26:32	=> SetTransactionStatus Bussiness Exception Process Started
+21/12/2023 05:26:36	=> SetTransactionStatus Success Process Started
+21/12/2023 05:26:37	=> SetTransactionStatus Success Process Started
+21/12/2023 05:26:38	=> SetTransactionStatus Success Process Started
+21/12/2023 05:26:38	Failed to Close Application
+21/12/2023 05:27:08	=> SetTransactionStatus.xaml failed: Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' htmlwindowname='*' title='*' url='https://ednz-test*'/>
+
+The closest matches found are:
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://sftp22.sapsf.com/Web/Account/Login.htm'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://mail.google.com/mail/u/0/?tab=wm#starred'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://mail.google.com/mail/u/1/#sent'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://meet.google.com/?authuser=0'/> at Source: Attach Browser Sign In: UiPath.UiAutomation.Activities

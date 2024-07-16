@@ -1,0 +1,18 @@
+﻿19/01/2024 03:14:19	BOT Read (Settings And Constants, Assets sheets)
+19/01/2024 03:14:19	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+19/01/2024 03:14:19	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+19/01/2024 03:14:20	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+19/01/2024 03:14:20	Folder Deleted Created at Path : incoming/
+19/01/2024 03:14:20	Folder Deleted Created at Path : Exceptions_Screenshots
+19/01/2024 03:14:20	Opening applications...
+19/01/2024 03:14:50	Killing applications...
+19/01/2024 03:14:50	Get transaction item Started
+19/01/2024 03:14:53	Folder is Exist in SFTP
+19/01/2024 03:14:53	Get transaction item Completed
+19/01/2024 03:14:56	Process execution started
+19/01/2024 03:15:01	Validating the FTP Input folder

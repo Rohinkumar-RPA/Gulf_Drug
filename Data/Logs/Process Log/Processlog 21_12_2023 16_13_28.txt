@@ -1,0 +1,25 @@
+﻿21/12/2023 04:13:28	BOT Read (Settings And Constants, Assets sheets)
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+21/12/2023 04:13:28	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+21/12/2023 04:13:28	Folder Deleted Created at Path : incoming/
+21/12/2023 04:13:28	Folder Deleted Created at Path : Exceptions_Screenshots
+21/12/2023 04:13:32	input file Downloaded and saved
+21/12/2023 04:13:33	Delete Attachment from Input folder SFTP
+21/12/2023 04:13:35	Upload Files in Inprogress folder in SFTP
+21/12/2023 04:13:35	Moved input file to input sheet folder
+21/12/2023 04:13:35	File Renaming Process Completed
+21/12/2023 04:13:38	BOT validating the input sheet
+21/12/2023 04:14:09	Login Page Validation Started
+12/21/2023 16:14:09   All Mandatory Columns are Present
+21/12/2023 04:14:20	BOT started entering data in Identification tab of Oracle
+21/12/2023 04:14:31	BOT Data entered in Identification tab of Oracle
+21/12/2023 04:14:32	BOT started entering data in Person Information tab of Oracle
+21/12/2023 04:15:00	BOT Data entered in Person Info tab of Oracle
+21/12/2023 04:15:01	BOT Data entered in Person Profile tab of Oracle
+21/12/2023 04:15:04	BOT started entering data in Employee Information tab of Oracle

@@ -1,0 +1,44 @@
+﻿04/06/2024 01:08:24	BOT Read (Settings And Constants, Assets sheets)
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+04/06/2024 01:08:24	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+04/06/2024 01:08:25	Folder Deleted Created at Path : outgoing/
+04/06/2024 01:08:25	Folder Deleted Created at Path : Exceptions_Screenshots
+04/06/2024 01:08:25	Opening applications...
+04/06/2024 01:08:55	Killing applications...
+04/06/2024 01:08:55	Get transaction item Started
+04/06/2024 01:08:56	Folder is Exist in SFTP
+04/06/2024 01:08:56	Get transaction item Completed
+04/06/2024 01:08:58	Process execution started
+04/06/2024 01:09:00	Validating the FTP Input folder
+04/06/2024 01:11:42	=> Consecutive system exception counter is 0.
+04/06/2024 01:11:42	Take screenshot Process Start
+04/06/2024 01:11:42	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_04_06_42.png
+04/06/2024 01:11:42	System exception.Could not find the UI element corresponding to this selector:
+[1] <html app='chrome.exe' title='Candidate Workbench: *'/>
+[2] <webctrl aaname='Cust Application ID' tag='INPUT' type='text'/>
+
+Search failed at selector tag:
+[2] <webctrl aaname='Cust Application ID' tag='INPUT' type='text'/>
+
+The closest matches found are:
+[87%] <webctrl aaname='Applicant' tag='INPUT' type='text'/>
+[85%] <webctrl aaname='Last position' tag='INPUT' type='text'/>
+[81%] <webctrl aaname='Paid/Unpaid' tag='INPUT' type='text'/>
+[80%] <webctrl aaname='Pakistani' tag='INPUT' type='text'/>
+[80%] <webctrl aaname='Areas interested in' tag='INPUT' type='text'/>
+[80%] <webctrl aaname='Current Residential Address' tag='INPUT' type='text'/>
+[80%] <webctrl aaname='United Arab Emirates' tag='INPUT' type='text'/>
+[79%] <webctrl aaname='Last Employer' tag='INPUT' type='text'/>
+[79%] <webctrl aaname='Place of Birth' tag='INPUT' type='text'/>
+[79%] <webctrl aaname='Place of issue' tag='INPUT' type='text'/> at Source: Framework\SAP Process.xaml - Invoke Workflow File: Type Into 'INPUT  270__txtFld'
+04/06/2024 01:11:42	Failed to Close Application
+04/06/2024 01:11:42	Applications closed successfully
+04/06/2024 01:11:43	Applications closed successfully
+04/06/2024 01:11:43	System Exception mail sent successfully

@@ -1,0 +1,13 @@
+﻿05/06/2024 03:39:46	BOT Read (Settings And Constants, Assets sheets)
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+05/06/2024 03:39:46	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+05/06/2024 03:39:47	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+05/06/2024 03:39:47	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+05/06/2024 03:39:47	Folder Deleted Created at Path : outgoing/
+05/06/2024 03:39:47	Folder Deleted Created at Path : Exceptions_Screenshots
+05/06/2024 03:39:47	Opening applications...

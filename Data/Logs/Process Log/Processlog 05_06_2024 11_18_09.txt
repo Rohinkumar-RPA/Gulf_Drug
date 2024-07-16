@@ -1,0 +1,25 @@
+﻿05/06/2024 11:18:09	BOT Read (Settings And Constants, Assets sheets)
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+05/06/2024 11:18:09	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+05/06/2024 11:18:10	Folder Deleted Created at Path : outgoing/
+05/06/2024 11:18:10	Folder Deleted Created at Path : Exceptions_Screenshots
+05/06/2024 11:18:10	Opening applications...
+05/06/2024 11:18:10	Killing applications...
+05/06/2024 11:18:10	Applications closed successfully
+05/06/2024 11:18:40	Killing applications...
+05/06/2024 11:18:41	Get transaction item Started
+05/06/2024 11:18:42	Folder is Exist in SFTP
+05/06/2024 11:18:42	Get transaction item Completed
+05/06/2024 11:18:44	Process execution started
+05/06/2024 11:18:46	Validating the FTP Input folder
+05/06/2024 11:41:02	=> SetTransactionStatus Success Process Started
+05/06/2024 11:41:07	=> SetTransactionStatus.xaml failed: 5.7.0 Must issue a STARTTLS command first. For more information, go to
+5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+5.7.0 specifications. 98e67ed59e1d1-2c28066eaaasm579919a91.23 - gsmtp at Source: Send SMTP Mail Message Success Process: MailKit

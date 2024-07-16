@@ -1,0 +1,30 @@
+﻿27/12/2023 12:30:05	BOT Read (Settings And Constants, Assets sheets)
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+27/12/2023 12:30:05	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+27/12/2023 12:30:05	Folder Deleted Created at Path : incoming/
+27/12/2023 12:30:05	Folder Deleted Created at Path : Exceptions_Screenshots
+27/12/2023 12:30:05	Opening applications...
+27/12/2023 12:30:06	Killing applications...
+27/12/2023 12:30:36	Killing applications...
+27/12/2023 12:30:36	Get transaction item Started
+27/12/2023 12:30:37	Folder is Exist in SFTP
+27/12/2023 12:30:37	Get transaction item Completed
+27/12/2023 12:30:39	Process execution started
+27/12/2023 12:30:41	Validating the FTP Input folder
+27/12/2023 12:41:22	=> SetTransactionStatus Bussiness Exception Process Started
+27/12/2023 12:41:25	=> SetTransactionStatus Failed Process Mail Sent Successfully
+27/12/2023 12:41:25	Failed to Close Application
+27/12/2023 12:42:16	=> SetTransactionStatus.xaml failed: Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' htmlwindowname='*' title='*' url='https://ednz-test*'/>
+
+The closest matches found are:
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://mail.google.com/mail/u/0/?tab=wm#inbox'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTQyZTU2NWYtY2Q3Mi00NTFiLWI2OTAtOGYxOGYzNzc5MTM3%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522672ff477-a616-42ae-b607-c441ba33d1ad%2522%252c%2522Oid%2522%253a%25228b494d80-972a-4b67-a6c2-8e0f813f8eee%2522%257d%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=605892a8-fa68-4214-9576-0a258ec06802&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://sftp22.sapsf.com/Web/Account/Login.htm'/>
+[75%] <html app='chrome.exe' htmlwindowname='*' title='*' url='https://meet.google.com/?authuser=0'/> at Source: Attach Browser Sign In: UiPath.UiAutomation.Activities

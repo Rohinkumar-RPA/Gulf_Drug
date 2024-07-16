@@ -1,0 +1,27 @@
+﻿03/06/2024 10:35:23	BOT Read (Settings And Constants, Assets sheets)
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+03/06/2024 10:35:23	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+03/06/2024 10:35:23	Folder Deleted Created at Path : outgoing/
+03/06/2024 10:35:23	Folder Deleted Created at Path : Exceptions_Screenshots
+03/06/2024 10:35:23	Opening applications...
+03/06/2024 10:35:54	Killing applications...
+03/06/2024 10:35:54	Get transaction item Started
+03/06/2024 10:35:58	Folder is Exist in SFTP
+03/06/2024 10:35:58	Get transaction item Completed
+03/06/2024 10:36:01	Process execution started
+03/06/2024 10:36:11	Validating the FTP Input folder
+03/06/2024 10:38:36	=> Consecutive system exception counter is 0.
+03/06/2024 10:38:36	Take screenshot Process Start
+03/06/2024 10:38:36	Screenshot saved at: Exceptions_Screenshots\ExceptionScreenshot_03_06_36.png
+03/06/2024 10:38:36	System exception.The UiElement is no longer valid at Source: Framework\SAP Process.xaml - Invoke Workflow File: Click 'A  cswCandName_995'
+03/06/2024 10:38:36	Failed to Close Application
+03/06/2024 10:38:36	Applications closed successfully
+03/06/2024 10:38:36	Applications closed successfully
+03/06/2024 10:38:36	System Exception mail sent successfully

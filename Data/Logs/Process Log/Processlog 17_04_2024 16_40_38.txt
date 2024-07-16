@@ -1,0 +1,37 @@
+﻿17/04/2024 04:40:38	BOT Read (Settings And Constants, Assets sheets)
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Input\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Attachment Folder\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Exceptions_Screenshots\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Bussiness Exceptions_Screenshots\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Success\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Failed\
+17/04/2024 04:40:38	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Missing\
+17/04/2024 04:40:39	Folder Deleted Created at Path : C:\Users\Atominos Consulting\Documents\UiPath\Gulf Drug Process\Data\Output\Already_Exist\
+17/04/2024 04:40:39	Folder Deleted Created at Path : outgoing/
+17/04/2024 04:40:39	Folder Deleted Created at Path : Exceptions_Screenshots
+17/04/2024 04:40:39	Opening applications...
+17/04/2024 04:41:09	Killing applications...
+17/04/2024 04:41:09	Get transaction item Started
+17/04/2024 04:41:10	Folder is Exist in SFTP
+17/04/2024 04:41:10	Get transaction item Completed
+17/04/2024 04:41:12	Process execution started
+17/04/2024 04:41:13	Validating the Attachment  folder path
+17/04/2024 04:41:13	Folder is Empty
+17/04/2024 04:41:14	Get transaction item Started
+17/04/2024 04:41:15	Folder is Exist in SFTP
+17/04/2024 04:41:15	Get transaction item Completed
+17/04/2024 04:41:16	Process execution started
+17/04/2024 04:41:17	Validating the Attachment  folder path
+17/04/2024 04:41:17	Folder is Empty
+17/04/2024 04:41:17	Get transaction item Started
+17/04/2024 04:41:18	Folder is Exist in SFTP
+17/04/2024 04:41:18	Get transaction item Completed
+17/04/2024 04:41:19	Process execution started
+17/04/2024 04:41:20	Validating the Attachment  folder path
+17/04/2024 04:41:20	Folder is Empty
+17/04/2024 04:41:20	Get transaction item Started
+17/04/2024 04:41:22	Folder is Exist in SFTP
+17/04/2024 04:41:22	Get transaction item Completed
+17/04/2024 04:41:22	Process execution started
+17/04/2024 04:41:24	Validating the FTP Input folder
