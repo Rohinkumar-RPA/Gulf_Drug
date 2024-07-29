@@ -1,0 +1,55 @@
+Windows Credentials
+
+username : gulfdrug
+pass : OC159gd#
+
+Anydesk ID : 1600565557
+Password : Rpa_hr@gd
+
+Production Credentials
+
+1.Oracle system,
+ 
+Link : https://ednz.login.em2.oraclecloud.com/
+Username : HCM_BOT_USER
+Password : Welcome@786
+
+2.SAP system,
+
+SAP_Web_link : https://hcm22.sapsf.com/login?company=gulfdruges#/login
+Username : SAP_BOT_USER
+Password : Welcome@786
+
+3.SFTP system,
+
+FTP_Link : https://sftp22.sapsf.com
+FTP_Username : 21985274P3
+FTP_Password : R1o#ZXsC1@aI
+
+
+Testing Credentials
+
+1.Oracle system,
+ 
+Link : https://ednz-test.fa.em2.oraclecloud.com/
+Username : HCM_BOT_USER
+Password : welcome@1234
+
+2.SAP system,
+
+SAP_Web_link : https://hcm22preview.sapsf.com/
+Username : SAP_BOT_USER
+Password : Today@12345
+
+3.SFTP system,
+
+FTP_Link : https://sftp22.sapsf.com
+FTP_Username : 21985274T1
+FTP_Password : 0IRdL@f@1@aI
+
+Folders: Navigation: My Files -> Incoming
+
+1. sf2or_pw_input
+2. sf2or_pw_inprogress
+3. sf2or_pw_error
+4. sf2or_pw_success 

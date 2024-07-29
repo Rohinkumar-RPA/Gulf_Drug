@@ -869,7 +869,7 @@
                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
-                                          <If Condition="[Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Start Date&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Action&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Legal Employer&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Worker Type&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Title&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;First Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Family Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Gender&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Date Of Birth&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;WMP&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Business Unit&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Assignment Category&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Payroll Org&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Applicant ID&quot;).ToString))]" DisplayName="Header validation of Input sheet" sap:VirtualizedContainerService.HintSize="854,2977" sap2010:WorkflowViewState.IdRef="If_9">
+                                          <If Condition="[Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Start Date&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Action&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Legal Employer&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Proposed Worker Type&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Title&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;First Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Family Name&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Gender&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Date Of Birth&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;WMP&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Business Unit&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Assignment Category&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Payroll Org&quot;).ToString)) And Not(String.IsNullOrEmpty(CurrentRow(&quot;Applicant ID&quot;).ToString))]" DisplayName="Header validation of Input sheet" sap:VirtualizedContainerService.HintSize="854,2954" sap2010:WorkflowViewState.IdRef="If_9">
                                             <sap:WorkflowViewStateService.ViewState>
                                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1033,7 +1033,7 @@
                                                             </scg:Dictionary>
                                                           </sap:WorkflowViewStateService.ViewState>
                                                         </ui:RetryScope>
-                                                        <Flowchart DisplayName="Process" sap:VirtualizedContainerService.HintSize="600,648" sap2010:WorkflowViewState.IdRef="Flowchart_3">
+                                                        <Flowchart DisplayName="Process" sap:VirtualizedContainerService.HintSize="688,500" sap2010:WorkflowViewState.IdRef="Flowchart_3">
                                                           <Flowchart.Variables>
                                                             <Variable x:TypeArguments="x:String" Name="Expected_start_date" />
                                                             <Variable x:TypeArguments="x:String" Name="Legal_Employer" />
@@ -2107,25 +2107,25 @@
                                                                                                 <av:PointCollection x:Key="ConnectorLocation">55,909.5 55,939.5 255,939.5 255,1003.5</av:PointCollection>
                                                                                               </scg:Dictionary>
                                                                                             </sap:WorkflowViewStateService.ViewState>
-                                                                                            <Sequence DisplayName="Employee Info" sap:VirtualizedContainerService.HintSize="992,14977" sap2010:WorkflowViewState.IdRef="Sequence_199">
+                                                                                            <Sequence DisplayName="Employee Info" sap:VirtualizedContainerService.HintSize="992,17509" sap2010:WorkflowViewState.IdRef="Sequence_199">
                                                                                               <sap:WorkflowViewStateService.ViewState>
                                                                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                                                 </scg:Dictionary>
                                                                                               </sap:WorkflowViewStateService.ViewState>
-                                                                                              <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="930,14889" sap2010:WorkflowViewState.IdRef="TryCatch_9">
+                                                                                              <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="930,17421" sap2010:WorkflowViewState.IdRef="TryCatch_9">
                                                                                                 <TryCatch.Try>
-                                                                                                  <ui:RetryScope DisplayName="Emp Details" sap:VirtualizedContainerService.HintSize="892,14121" sap2010:WorkflowViewState.IdRef="RetryScope_7" NumberOfRetries="5">
+                                                                                                  <ui:RetryScope DisplayName="Emp Details" sap:VirtualizedContainerService.HintSize="892,16653" sap2010:WorkflowViewState.IdRef="RetryScope_7" NumberOfRetries="5">
                                                                                                     <ui:RetryScope.ActivityBody>
                                                                                                       <ActivityAction>
-                                                                                                        <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="850,13854" sap2010:WorkflowViewState.IdRef="Sequence_217">
+                                                                                                        <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="850,16386" sap2010:WorkflowViewState.IdRef="Sequence_217">
                                                                                                           <sap:WorkflowViewStateService.ViewState>
                                                                                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                                                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                                                                             </scg:Dictionary>
                                                                                                           </sap:WorkflowViewStateService.ViewState>
-                                                                                                          <Sequence DisplayName="emp_infotab" sap:VirtualizedContainerService.HintSize="788,13769" sap2010:WorkflowViewState.IdRef="Sequence_200">
+                                                                                                          <Sequence DisplayName="emp_infotab" sap:VirtualizedContainerService.HintSize="788,16301" sap2010:WorkflowViewState.IdRef="Sequence_200">
                                                                                                             <Sequence.Variables>
                                                                                                               <Variable x:TypeArguments="x:String" Name="Hiring_Manager__Line_Manager_User_Sys_ID" />
                                                                                                               <Variable x:TypeArguments="x:String" Name="Probation_Period" />
@@ -2221,7 +2221,7 @@
                                                                                                             </sap:WorkflowViewStateService.ViewState>
                                                                                                             <ui:LogMessage DisplayName="Log Message Tab 4" sap:VirtualizedContainerService.HintSize="726,124" sap2010:WorkflowViewState.IdRef="LogMessage_47" Level="Info" Message="[&quot;BOT started entering data in Employee Information tab of Oracle&quot;]" />
                                                                                                             <ui:AppendLine File="{x:Null}" DisplayName="Append Line Tab 4" FileName="[in_Config(&quot;ProcessLogFile&quot;).ToString.Trim]" sap:VirtualizedContainerService.HintSize="726,165" sap2010:WorkflowViewState.IdRef="AppendLine_47" Text="[Now.ToString(&quot;dd/MM/yyyy hh:mm:ss&quot;)+vbTab+&quot;BOT started entering data in Employee Information tab of Oracle&quot;]" UseDefaultEncoding="False" />
-                                                                                                            <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="MultipleAssign_11">
+                                                                                                            <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="726,2365" sap2010:WorkflowViewState.IdRef="MultipleAssign_11">
                                                                                                               <ui:MultipleAssign.AssignOperations>
                                                                                                                 <scg:List x:TypeArguments="ui:AssignOperation" Capacity="128">
                                                                                                                   <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_355">
@@ -2812,8 +2812,8 @@
                                                                                                               </ui:MultipleAssign.AssignOperations>
                                                                                                               <sap:WorkflowViewStateService.ViewState>
                                                                                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                                                                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                                                                                                                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                                                                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                                                                                 </scg:Dictionary>
                                                                                                               </sap:WorkflowViewStateService.ViewState>
                                                                                                             </ui:MultipleAssign>
@@ -4151,9 +4151,63 @@
                                                                                                                 </scg:Dictionary>
                                                                                                               </sap:WorkflowViewStateService.ViewState>
                                                                                                             </ui:CommentOut>
-                                                                                                            <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="20" EmptyField="True" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="TypeInto_419" SimulateType="True" Text="[Air_Ticket_Destination_Country]">
-                                                                                                              <ui:TypeInto.Target>
-                                                                                                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="bc33cfe3eb19daf895732cc276eacb0f" Selector="&lt;html app='chrome.exe' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Country' /&gt;">
+                                                                                                            <ui:SelectItem AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="20" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="SelectItem_20" Item="[Air_Ticket_Destination_Country]">
+                                                                                                              <ui:SelectItem.Items>
+                                                                                                                <scg:List x:TypeArguments="x:String" Capacity="50">
+                                                                                                                  <x:String>Afghanistan</x:String>
+                                                                                                                  <x:String>Albania</x:String>
+                                                                                                                  <x:String>Algeria</x:String>
+                                                                                                                  <x:String>Angola</x:String>
+                                                                                                                  <x:String>Argentina</x:String>
+                                                                                                                  <x:String>Armenia</x:String>
+                                                                                                                  <x:String>Australia</x:String>
+                                                                                                                  <x:String>Austria</x:String>
+                                                                                                                  <x:String>Azerbaijan</x:String>
+                                                                                                                  <x:String>Bahrain</x:String>
+                                                                                                                  <x:String>Bangaladesh</x:String>
+                                                                                                                  <x:String>Belarus</x:String>
+                                                                                                                  <x:String>Belgium</x:String>
+                                                                                                                  <x:String>Brazil</x:String>
+                                                                                                                  <x:String>British</x:String>
+                                                                                                                  <x:String>Bulgaria</x:String>
+                                                                                                                  <x:String>Cameroon</x:String>
+                                                                                                                  <x:String>Canada</x:String>
+                                                                                                                  <x:String>China</x:String>
+                                                                                                                  <x:String>Colombia</x:String>
+                                                                                                                  <x:String>Comoros</x:String>
+                                                                                                                  <x:String>Congo</x:String>
+                                                                                                                  <x:String>Costa Rica</x:String>
+                                                                                                                  <x:String>Croatia</x:String>
+                                                                                                                  <x:String>Cyprus</x:String>
+                                                                                                                  <x:String>Czech Republic</x:String>
+                                                                                                                  <x:String>Denmark</x:String>
+                                                                                                                  <x:String>Dominican Republic</x:String>
+                                                                                                                  <x:String>Egypt</x:String>
+                                                                                                                  <x:String>Estonia</x:String>
+                                                                                                                  <x:String>Ethiopia</x:String>
+                                                                                                                  <x:String>Fiji</x:String>
+                                                                                                                  <x:String>Finland</x:String>
+                                                                                                                  <x:String>France</x:String>
+                                                                                                                  <x:String>Gambia</x:String>
+                                                                                                                  <x:String>Georgia</x:String>
+                                                                                                                  <x:String>Germany</x:String>
+                                                                                                                  <x:String>Ghana</x:String>
+                                                                                                                  <x:String>Greece</x:String>
+                                                                                                                  <x:String>Hungary</x:String>
+                                                                                                                  <x:String>Iceland</x:String>
+                                                                                                                  <x:String>India</x:String>
+                                                                                                                  <x:String>Indonesia</x:String>
+                                                                                                                  <x:String>Iran</x:String>
+                                                                                                                  <x:String>Iraq</x:String>
+                                                                                                                  <x:String>Ireland</x:String>
+                                                                                                                  <x:String>Italy</x:String>
+                                                                                                                  <x:String>Jamaica</x:String>
+                                                                                                                  <x:String>Japan</x:String>
+                                                                                                                  <x:String>Jordan</x:String>
+                                                                                                                </scg:List>
+                                                                                                              </ui:SelectItem.Items>
+                                                                                                              <ui:SelectItem.Target>
+                                                                                                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="daa7f77b-c5fb-4211-aea2-8e8e86e532da" InformativeScreenshot="ef8b09d7cbb7029472bbdf00581b7962" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Country' /&gt;">
                                                                                                                   <ui:Target.TimeoutMS>
                                                                                                                     <InArgument x:TypeArguments="x:Int32" />
                                                                                                                   </ui:Target.TimeoutMS>
@@ -4161,22 +4215,107 @@
                                                                                                                     <InArgument x:TypeArguments="ui:WaitForReady" />
                                                                                                                   </ui:Target.WaitForReady>
                                                                                                                 </ui:Target>
-                                                                                                              </ui:TypeInto.Target>
+                                                                                                              </ui:SelectItem.Target>
+                                                                                                            </ui:SelectItem>
+                                                                                                            <ui:RetryScope DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="RetryScope_12">
+                                                                                                              <ui:RetryScope.ActivityBody>
+                                                                                                                <ActivityAction>
+                                                                                                                  <Sequence DisplayName="Action" sap:VirtualizedContainerService.HintSize="421,243" sap2010:WorkflowViewState.IdRef="Sequence_278">
+                                                                                                                    <sap:WorkflowViewStateService.ViewState>
+                                                                                                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                      </scg:Dictionary>
+                                                                                                                    </sap:WorkflowViewStateService.ViewState>
+                                                                                                                    <ui:SelectItem ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" AlterIfDisabled="True" DisplayName="20" sap:VirtualizedContainerService.HintSize="359,158" sap2010:WorkflowViewState.IdRef="SelectItem_21" Item="[Air_Ticket_Destination_Airport]">
+                                                                                                                      <ui:SelectItem.Items>
+                                                                                                                        <scg:List x:TypeArguments="x:String" Capacity="50">
+                                                                                                                          <x:String>Afghanistan</x:String>
+                                                                                                                          <x:String>Albania</x:String>
+                                                                                                                          <x:String>Algeria</x:String>
+                                                                                                                          <x:String>Angola</x:String>
+                                                                                                                          <x:String>Argentina</x:String>
+                                                                                                                          <x:String>Armenia</x:String>
+                                                                                                                          <x:String>Australia</x:String>
+                                                                                                                          <x:String>Austria</x:String>
+                                                                                                                          <x:String>Azerbaijan</x:String>
+                                                                                                                          <x:String>Bahrain</x:String>
+                                                                                                                          <x:String>Bangaladesh</x:String>
+                                                                                                                          <x:String>Belarus</x:String>
+                                                                                                                          <x:String>Belgium</x:String>
+                                                                                                                          <x:String>Brazil</x:String>
+                                                                                                                          <x:String>British</x:String>
+                                                                                                                          <x:String>Bulgaria</x:String>
+                                                                                                                          <x:String>Cameroon</x:String>
+                                                                                                                          <x:String>Canada</x:String>
+                                                                                                                          <x:String>China</x:String>
+                                                                                                                          <x:String>Colombia</x:String>
+                                                                                                                          <x:String>Comoros</x:String>
+                                                                                                                          <x:String>Congo</x:String>
+                                                                                                                          <x:String>Costa Rica</x:String>
+                                                                                                                          <x:String>Croatia</x:String>
+                                                                                                                          <x:String>Cyprus</x:String>
+                                                                                                                          <x:String>Czech Republic</x:String>
+                                                                                                                          <x:String>Denmark</x:String>
+                                                                                                                          <x:String>Dominican Republic</x:String>
+                                                                                                                          <x:String>Egypt</x:String>
+                                                                                                                          <x:String>Estonia</x:String>
+                                                                                                                          <x:String>Ethiopia</x:String>
+                                                                                                                          <x:String>Fiji</x:String>
+                                                                                                                          <x:String>Finland</x:String>
+                                                                                                                          <x:String>France</x:String>
+                                                                                                                          <x:String>Gambia</x:String>
+                                                                                                                          <x:String>Georgia</x:String>
+                                                                                                                          <x:String>Germany</x:String>
+                                                                                                                          <x:String>Ghana</x:String>
+                                                                                                                          <x:String>Greece</x:String>
+                                                                                                                          <x:String>Hungary</x:String>
+                                                                                                                          <x:String>Iceland</x:String>
+                                                                                                                          <x:String>India</x:String>
+                                                                                                                          <x:String>Indonesia</x:String>
+                                                                                                                          <x:String>Iran</x:String>
+                                                                                                                          <x:String>Iraq</x:String>
+                                                                                                                          <x:String>Ireland</x:String>
+                                                                                                                          <x:String>Italy</x:String>
+                                                                                                                          <x:String>Jamaica</x:String>
+                                                                                                                          <x:String>Japan</x:String>
+                                                                                                                          <x:String>Jordan</x:String>
+                                                                                                                        </scg:List>
+                                                                                                                      </ui:SelectItem.Items>
+                                                                                                                      <ui:SelectItem.Target>
+                                                                                                                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="daa7f77b-c5fb-4211-aea2-8e8e86e532da" InformativeScreenshot="ef8b09d7cbb7029472bbdf00581b7962" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Airport' /&gt;">
+                                                                                                                          <ui:Target.TimeoutMS>
+                                                                                                                            <InArgument x:TypeArguments="x:Int32" />
+                                                                                                                          </ui:Target.TimeoutMS>
+                                                                                                                          <ui:Target.WaitForReady>
+                                                                                                                            <InArgument x:TypeArguments="ui:WaitForReady" />
+                                                                                                                          </ui:Target.WaitForReady>
+                                                                                                                        </ui:Target>
+                                                                                                                      </ui:SelectItem.Target>
+                                                                                                                    </ui:SelectItem>
+                                                                                                                  </Sequence>
+                                                                                                                </ActivityAction>
+                                                                                                              </ui:RetryScope.ActivityBody>
+                                                                                                              <ui:RetryScope.Condition>
+                                                                                                                <ActivityFunc x:TypeArguments="x:Boolean" />
+                                                                                                              </ui:RetryScope.Condition>
                                                                                                               <sap:WorkflowViewStateService.ViewState>
                                                                                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                                                                                                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
                                                                                                                 </scg:Dictionary>
                                                                                                               </sap:WorkflowViewStateService.ViewState>
-                                                                                                            </ui:TypeInto>
-                                                                                                            <ui:AnchorBase AnchorPosition="Auto" DisplayName="21. Anchor Base" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="AnchorBase_132">
-                                                                                                              <ui:AnchorBase.Action>
-                                                                                                                <ActivityAction x:TypeArguments="ui:Anchor">
-                                                                                                                  <ActivityAction.Argument>
-                                                                                                                    <DelegateInArgument x:TypeArguments="ui:Anchor" Name="ContextAnchor" />
-                                                                                                                  </ActivityAction.Argument>
-                                                                                                                  <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="21" EmptyField="True" sap:VirtualizedContainerService.HintSize="334,135" sap2010:WorkflowViewState.IdRef="TypeInto_420" SimulateType="True" Text="[Working_days_per_week]">
+                                                                                                            </ui:RetryScope>
+                                                                                                            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="CommentOut_86">
+                                                                                                              <ui:CommentOut.Body>
+                                                                                                                <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="416,243" sap2010:WorkflowViewState.IdRef="Sequence_277">
+                                                                                                                  <sap:WorkflowViewStateService.ViewState>
+                                                                                                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                    </scg:Dictionary>
+                                                                                                                  </sap:WorkflowViewStateService.ViewState>
+                                                                                                                  <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="22" EmptyField="True" sap:VirtualizedContainerService.HintSize="354,158" sap2010:WorkflowViewState.IdRef="TypeInto_502" SimulateType="True" Text="[Air_Ticket_Destination_Airport]">
                                                                                                                     <ui:TypeInto.Target>
-                                                                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="953e6eade6929185fd7466fd6e6a825a" Selector="&lt;webctrl tag='INPUT' /&gt;">
+                                                                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="494b26e7569953ece8c23cdbec255dc1" Selector="&lt;html app='chrome.exe' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Airport' /&gt;">
                                                                                                                         <ui:Target.TimeoutMS>
                                                                                                                           <InArgument x:TypeArguments="x:Int32" />
                                                                                                                         </ui:Target.TimeoutMS>
@@ -4191,55 +4330,26 @@
                                                                                                                       </scg:Dictionary>
                                                                                                                     </sap:WorkflowViewStateService.ViewState>
                                                                                                                   </ui:TypeInto>
-                                                                                                                </ActivityAction>
-                                                                                                              </ui:AnchorBase.Action>
-                                                                                                              <ui:AnchorBase.AnchorProvider>
-                                                                                                                <ui:WaitUiElementAppear FoundElement="{x:Null}" WaitActive="{x:Null}" WaitVisible="{x:Null}" DisplayName="Find Element 'LABEL'" sap:VirtualizedContainerService.HintSize="334,107" sap2010:WorkflowViewState.IdRef="WaitUiElementAppear_131">
-                                                                                                                  <ui:WaitUiElementAppear.Target>
-                                                                                                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7964758b-9cff-43b2-a9d7-f7ff4885fe92" InformativeScreenshot="409e33f5d50d1c45a17a7276486be6ab" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tag='TABLE' idx='44' /&gt;&lt;webctrl tag='LABEL' aaname='Working Days Per Week' /&gt;">
-                                                                                                                      <ui:Target.TimeoutMS>
-                                                                                                                        <InArgument x:TypeArguments="x:Int32" />
-                                                                                                                      </ui:Target.TimeoutMS>
-                                                                                                                      <ui:Target.WaitForReady>
-                                                                                                                        <InArgument x:TypeArguments="ui:WaitForReady" />
-                                                                                                                      </ui:Target.WaitForReady>
-                                                                                                                    </ui:Target>
-                                                                                                                  </ui:WaitUiElementAppear.Target>
-                                                                                                                </ui:WaitUiElementAppear>
-                                                                                                              </ui:AnchorBase.AnchorProvider>
+                                                                                                                </Sequence>
+                                                                                                              </ui:CommentOut.Body>
                                                                                                               <sap:WorkflowViewStateService.ViewState>
                                                                                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                                                                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                                                                                                   <x:Boolean x:Key="IsPinned">True</x:Boolean>
                                                                                                                 </scg:Dictionary>
                                                                                                               </sap:WorkflowViewStateService.ViewState>
-                                                                                                            </ui:AnchorBase>
-                                                                                                            <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="22" EmptyField="True" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="TypeInto_421" Text="[Air_Ticket_Destination_Airport]">
-                                                                                                              <ui:TypeInto.Target>
-                                                                                                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="494b26e7569953ece8c23cdbec255dc1" Selector="&lt;html app='chrome.exe' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Airport' /&gt;">
-                                                                                                                  <ui:Target.TimeoutMS>
-                                                                                                                    <InArgument x:TypeArguments="x:Int32" />
-                                                                                                                  </ui:Target.TimeoutMS>
-                                                                                                                  <ui:Target.WaitForReady>
-                                                                                                                    <InArgument x:TypeArguments="ui:WaitForReady" />
-                                                                                                                  </ui:Target.WaitForReady>
-                                                                                                                </ui:Target>
-                                                                                                              </ui:TypeInto.Target>
-                                                                                                              <sap:WorkflowViewStateService.ViewState>
-                                                                                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                                                                                                </scg:Dictionary>
-                                                                                                              </sap:WorkflowViewStateService.ViewState>
-                                                                                                            </ui:TypeInto>
-                                                                                                            <ui:AnchorBase AnchorPosition="Auto" DisplayName="23. Anchor Base" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="AnchorBase_133">
-                                                                                                              <ui:AnchorBase.Action>
-                                                                                                                <ActivityAction x:TypeArguments="ui:Anchor">
-                                                                                                                  <ActivityAction.Argument>
-                                                                                                                    <DelegateInArgument x:TypeArguments="ui:Anchor" Name="ContextAnchor" />
-                                                                                                                  </ActivityAction.Argument>
-                                                                                                                  <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="23" EmptyField="True" sap:VirtualizedContainerService.HintSize="334,135" sap2010:WorkflowViewState.IdRef="TypeInto_422" SimulateType="True" Text="[Working_hours_per_day]">
+                                                                                                            </ui:CommentOut>
+                                                                                                            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="726,57" sap2010:WorkflowViewState.IdRef="CommentOut_85">
+                                                                                                              <ui:CommentOut.Body>
+                                                                                                                <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="416,243" sap2010:WorkflowViewState.IdRef="Sequence_276">
+                                                                                                                  <sap:WorkflowViewStateService.ViewState>
+                                                                                                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                    </scg:Dictionary>
+                                                                                                                  </sap:WorkflowViewStateService.ViewState>
+                                                                                                                  <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="20" EmptyField="True" sap:VirtualizedContainerService.HintSize="354,158" sap2010:WorkflowViewState.IdRef="TypeInto_419" SimulateType="True" Text="[Air_Ticket_Destination_Country]">
                                                                                                                     <ui:TypeInto.Target>
-                                                                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="bf01552e276ee8f799a54c4ed971ac45" Selector="&lt;webctrl tag='INPUT' /&gt;">
+                                                                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="bc33cfe3eb19daf895732cc276eacb0f" Selector="&lt;html app='chrome.exe' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Air Ticket Destination Country' /&gt;">
                                                                                                                         <ui:Target.TimeoutMS>
                                                                                                                           <InArgument x:TypeArguments="x:Int32" />
                                                                                                                         </ui:Target.TimeoutMS>
@@ -4254,29 +4364,49 @@
                                                                                                                       </scg:Dictionary>
                                                                                                                     </sap:WorkflowViewStateService.ViewState>
                                                                                                                   </ui:TypeInto>
-                                                                                                                </ActivityAction>
-                                                                                                              </ui:AnchorBase.Action>
-                                                                                                              <ui:AnchorBase.AnchorProvider>
-                                                                                                                <ui:WaitUiElementAppear FoundElement="{x:Null}" WaitActive="{x:Null}" WaitVisible="{x:Null}" DisplayName="Find Element 'LABEL'" sap:VirtualizedContainerService.HintSize="334,107" sap2010:WorkflowViewState.IdRef="WaitUiElementAppear_132">
-                                                                                                                  <ui:WaitUiElementAppear.Target>
-                                                                                                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="5b60753f-3b20-4c2e-b6ee-1e82ef0651fd" InformativeScreenshot="d95361a14f35b634ff88cd6ea5bd366b" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl aria-role='presentation' tag='TABLE' idx='44' /&gt;&lt;webctrl tag='LABEL' aaname='Working Hours Per Day' /&gt;">
-                                                                                                                      <ui:Target.TimeoutMS>
-                                                                                                                        <InArgument x:TypeArguments="x:Int32" />
-                                                                                                                      </ui:Target.TimeoutMS>
-                                                                                                                      <ui:Target.WaitForReady>
-                                                                                                                        <InArgument x:TypeArguments="ui:WaitForReady" />
-                                                                                                                      </ui:Target.WaitForReady>
-                                                                                                                    </ui:Target>
-                                                                                                                  </ui:WaitUiElementAppear.Target>
-                                                                                                                </ui:WaitUiElementAppear>
-                                                                                                              </ui:AnchorBase.AnchorProvider>
+                                                                                                                </Sequence>
+                                                                                                              </ui:CommentOut.Body>
                                                                                                               <sap:WorkflowViewStateService.ViewState>
                                                                                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                                                                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                                                                                                   <x:Boolean x:Key="IsPinned">True</x:Boolean>
                                                                                                                 </scg:Dictionary>
                                                                                                               </sap:WorkflowViewStateService.ViewState>
-                                                                                                            </ui:AnchorBase>
+                                                                                                            </ui:CommentOut>
+                                                                                                            <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="21" EmptyField="True" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="TypeInto_420" SimulateType="True" Text="[Working_days_per_week]">
+                                                                                                              <ui:TypeInto.Target>
+                                                                                                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="953e6eade6929185fd7466fd6e6a825a" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Working Days Per Week' /&gt;">
+                                                                                                                  <ui:Target.TimeoutMS>
+                                                                                                                    <InArgument x:TypeArguments="x:Int32" />
+                                                                                                                  </ui:Target.TimeoutMS>
+                                                                                                                  <ui:Target.WaitForReady>
+                                                                                                                    <InArgument x:TypeArguments="ui:WaitForReady" />
+                                                                                                                  </ui:Target.WaitForReady>
+                                                                                                                </ui:Target>
+                                                                                                              </ui:TypeInto.Target>
+                                                                                                              <sap:WorkflowViewStateService.ViewState>
+                                                                                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                </scg:Dictionary>
+                                                                                                              </sap:WorkflowViewStateService.ViewState>
+                                                                                                            </ui:TypeInto>
+                                                                                                            <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="23" EmptyField="True" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="TypeInto_422" SimulateType="True" Text="[Working_hours_per_day]">
+                                                                                                              <ui:TypeInto.Target>
+                                                                                                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="bf01552e276ee8f799a54c4ed971ac45" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Working Hours Per Day' /&gt;">
+                                                                                                                  <ui:Target.TimeoutMS>
+                                                                                                                    <InArgument x:TypeArguments="x:Int32" />
+                                                                                                                  </ui:Target.TimeoutMS>
+                                                                                                                  <ui:Target.WaitForReady>
+                                                                                                                    <InArgument x:TypeArguments="ui:WaitForReady" />
+                                                                                                                  </ui:Target.WaitForReady>
+                                                                                                                </ui:Target>
+                                                                                                              </ui:TypeInto.Target>
+                                                                                                              <sap:WorkflowViewStateService.ViewState>
+                                                                                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                                </scg:Dictionary>
+                                                                                                              </sap:WorkflowViewStateService.ViewState>
+                                                                                                            </ui:TypeInto>
                                                                                                             <ui:TypeInto DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" AlterIfDisabled="True" ClickBeforeTyping="True" DisplayName="24" EmptyField="True" sap:VirtualizedContainerService.HintSize="726,167" sap2010:WorkflowViewState.IdRef="TypeInto_423" SimulateType="True" Text="[Number_of_adult_air_ticket]">
                                                                                                               <ui:TypeInto.Target>
                                                                                                                 <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0aa311a6-c8c4-47ba-b844-2ce6eecdea7a" InformativeScreenshot="84eec073f908da5b085a682e55f080bb" Selector="&lt;html app='chrome.exe' title='Add a Pending Worker - New Person - Oracle Fusion Cloud Applications' /&gt;&lt;webctrl tag='INPUT' aaname='Number of adult air ticket' /&gt;">
@@ -6402,7 +6532,7 @@
                                                                                                   <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="896,435" sap2010:WorkflowViewState.IdRef="Catch`1_8">
                                                                                                     <sap:WorkflowViewStateService.ViewState>
                                                                                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                                                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                                        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                                                                                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                                                                       </scg:Dictionary>
                                                                                                     </sap:WorkflowViewStateService.ViewState>
